@@ -1,0 +1,57 @@
+﻿<TabItem x:Class="Tomato.Exercise.Views.PlanView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"
+             xmlns:busy="clr-namespace:WPF.Controls.Busy;assembly=WPF.Controls"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             prism:ViewModelLocator.AutoWireViewModel="True" x:Name="RootControl" 
+         Header="复习计划" Style="{StaticResource MainTabItemStyle}"
+         >
+    <i:Interaction.Triggers>
+        <prism:InteractionRequestTrigger SourceObject="{Binding NotificationRequest}">
+            <prism:PopupWindowAction IsModal="True" WindowStartupLocation="CenterScreen"></prism:PopupWindowAction>
+        </prism:InteractionRequestTrigger>
+        </i:Interaction.Triggers>
+        <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition> 
+        </Grid.RowDefinitions>
+            <DataGrid ItemsSource="{Binding Plans}" IsReadOnly="False" AutoGenerateColumns="False" CanUserDeleteRows="False" CanUserAddRows="False">
+                <DataGrid.Columns>
+                    <DataGridTemplateColumn Header="书籍" Width="280">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock>
+                                    <Hyperlink  FontWeight="Bold" Command="{Binding ElementName=RootControl,Path=DataContext.ViewBookCommand}" CommandParameter="{Binding .}"><Run Text="{Binding BookTitle,Mode=OneWay}"></Run></Hyperlink>
+                                </TextBlock>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTextColumn Header="文件名" Binding="{Binding Book}" IsReadOnly="True" Width="160"></DataGridTextColumn>
+                <DataGridTextColumn Header="开始时间" Binding="{Binding StartDate, StringFormat=yyyy-MM-dd}" Width="120"></DataGridTextColumn>
+                <DataGridTextColumn Header="学习天数" Binding="{Binding Days}" Width="80"></DataGridTextColumn>
+
+                <DataGridTextColumn Header="总节数" Binding="{Binding PointsCount}" IsReadOnly="True"></DataGridTextColumn>
+            </DataGrid.Columns>
+            </DataGrid>
+        <busy:BusyBox Width="80" Height="80" Visibility="{Binding IsEnabled,Converter={StaticResource BoolToOppositeVisibilityConverter}}"   >
+
+        </busy:BusyBox>
+        <Border Grid.Row="1"    Background="#FF999C9C"  Padding="2">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="75"></ColumnDefinition>
+
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="75"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0">
+                                <Hyperlink Command="{Binding GotoBookDirectoryCommand}"  FontWeight="Bold">文件夹</Hyperlink>
+                </TextBlock>
+                
+                <Button Grid.Column="2" Command="{Binding SaveCommand}">保存</Button>
+            </Grid>
+            </Border>
+    </Grid>
+</TabItem>

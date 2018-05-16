@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="Practice.Views.PracticeWorkspaceView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"
+             xmlns:domain="clr-namespace:WordRemember.Domain;assembly=WordRemember.Domain"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             
+             >
+    <Grid   >
+        <ContentControl    prism:RegionManager.RegionName="{x:Static domain:RegionNames.PRACTICE_REGION}"></ContentControl> 
+    </Grid>
+</UserControl>

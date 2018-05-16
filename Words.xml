@@ -1,0 +1,3308 @@
+<?xml version="1.0"?>
+<ArrayOfUIBook xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UIBook>
+    <Name>七上</Name>
+    <Modules>
+      <UIModule>
+        <Name>Module 1 (starter)</Name>
+        <Words>
+          <UIWord>
+            <Name>hello</Name>
+            <SplittedText>hello</SplittedText>
+            <Symbol>hə'ləʊ; he-</Symbol>
+            <SymbolUs>hɛˈlo, hə-</SymbolUs>
+            <Meaning>你好</Meaning>n. 表示问候， 惊奇或唤起注意时的用语
+int. 喂；哈罗
+n. (Hello)人名；(法)埃洛<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>class</Name>
+            <SplittedText>class</SplittedText>
+            <Symbol>klɑːs</Symbol>
+            <SymbolUs>klæs</SymbolUs>
+            <Meaning>班级</Meaning>n. 阶级；班级；种类；班；等级
+adj. 极好的；很好的，优秀的，出色的
+vt. 分类；把…分等级；把…归入某等级，把…看作（或分类、归类）；把…编入某一班级
+vi. 属于…类（或等级），被列为某类（或某级）
+n. （英、德）克拉斯（人名）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>my</Name>
+            <SplittedText>my</SplittedText>
+            <Symbol>maɪ</Symbol>
+            <SymbolUs>maɪ</SymbolUs>
+            <Meaning>我的</Meaning>pron. 我的
+int. 哎呀（表示惊奇等）；喔唷
+n. (My)人名；(越)美；(老、柬)米<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>name</Name>
+            <SplittedText>name</SplittedText>
+            <Symbol>neɪm</Symbol>
+            <SymbolUs>nem</SymbolUs>
+            <Meaning>名字</Meaning>n. 名称，名字；姓名；名誉
+adj. 姓名的；据以取名的
+vt. 命名，任命；指定；称呼；提名；叫出
+n. (Name)人名；(日)滑(姓)；(英)内姆<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>is</Name>
+            <SplittedText>is</SplittedText>
+            <Symbol>ɪz</Symbol>
+            <SymbolUs>ɪz</SymbolUs>
+            <Meaning>是</Meaning>v. 是（be的三单形式）
+n. 存在<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>Miss</Name>
+            <SplittedText>Miss</SplittedText>
+            <Symbol>mis</Symbol>
+            <SymbolUs>mis</SymbolUs>
+            <Meaning>小姐</Meaning>n. 小姐，女士；年轻未婚女子<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>good</Name>
+            <SplittedText>good</SplittedText>
+            <Symbol>gʊd</Symbol>
+            <SymbolUs>ɡʊd</SymbolUs>
+            <Meaning>好</Meaning>n. 好处；善行；慷慨的行为
+adj. 好的；优良的；愉快的；虔诚的
+adv. 好
+n. (Good)人名；(英)古德；(瑞典)戈德<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>morning</Name>
+            <SplittedText>morning</SplittedText>
+            <Symbol>'mɔːnɪŋ</Symbol>
+            <SymbolUs>'mɔrnɪŋ</SymbolUs>
+            <Meaning>早晨</Meaning>n. 早晨；黎明；初期<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>good morning</Name>
+            <Meaning>早上好</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>afternoon</Name>
+            <SplittedText>afternoon</SplittedText>
+            <Symbol>ɑːftə'nuːn</Symbol>
+            <SymbolUs>,æftɚ'nun</SymbolUs>
+            <Meaning>下午</Meaning>n. 午后，下午<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>goodbye</Name>
+            <SplittedText>goodbye</SplittedText>
+            <Symbol>gʊd'baɪ</Symbol>
+            <SymbolUs>,ɡud'bai</SymbolUs>
+            <Meaning>再见</Meaning>int. 再见
+放弃
+告别<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>I</Name>
+            <SplittedText>I</SplittedText>
+            <Symbol>aɪ</Symbol>
+            <SymbolUs>ai</SymbolUs>
+            <Meaning>我</Meaning>n. 碘元素；英语字母I
+pron. 我<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>am</Name>
+            <SplittedText>am</SplittedText>
+            <Symbol>em</Symbol>
+            <SymbolUs>ɛm</SymbolUs>
+            <Meaning>是</Meaning>vi. （用于第一人称单数现在时）
+abbr. 调频，调谐，调幅（ amplitude modulation）
+aux. （与v-ing连用构成现在进行时，与v-ed连用构成被动语态）
+n. （柬）安（人名）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>Mr</Name>
+            <SplittedText>Mr</SplittedText>
+            <Symbol>'mistə(r)</Symbol>
+            <SymbolUs>'mistə(r)</SymbolUs>
+            <Meaning>先生</Meaning>abbr. 先生（Mister）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>what</Name>
+            <SplittedText>what</SplittedText>
+            <Symbol>wɒt</Symbol>
+            <SymbolUs>hwʌt; hwɑt; wʌt; wɑt</SymbolUs>
+            <Meaning>什么</Meaning>pron. 什么；多么；多少
+adv. 到什么程度，在哪一方面
+adj. 什么；多么；何等
+int. 什么；多么<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>your</Name>
+            <SplittedText>your</SplittedText>
+            <Symbol>jɔː; jʊə</Symbol>
+            <SymbolUs>jʊr, jɔr, jor,jə</SymbolUs>
+            <Meaning>你的</Meaning>pron. 你的，你们的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>please</Name>
+            <SplittedText>please</SplittedText>
+            <Symbol>pliːz</Symbol>
+            <SymbolUs>pliz</SymbolUs>
+            <Meaning>请</Meaning>int. 请（礼貌用语）
+vt. 使喜欢；使高兴，使满意
+vi. 讨人喜欢；令人高兴<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>sorry</Name>
+            <SplittedText>sorry</SplittedText>
+            <Symbol>'sɒrɪ</Symbol>
+            <SymbolUs>'sɔri</SymbolUs>
+            <Meaning>对不起</Meaning>adj. 遗憾的；对不起的，抱歉的
+int. 对不起，抱歉（表示委婉的拒绝等）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>can</Name>
+            <SplittedText>can</SplittedText>
+            <Symbol>kæn</Symbol>
+            <SymbolUs>kæn</SymbolUs>
+            <Meaning>可以</Meaning>aux. 能； 能够； 可以； 可能
+n. 罐头； （用金属或塑料制作的）容器； （马口铁或其他金属制作的）食品罐头
+vt. 将…装入密封罐中保存<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>you</Name>
+            <SplittedText>you</SplittedText>
+            <Symbol>juː</Symbol>
+            <SymbolUs>ju</SymbolUs>
+            <Meaning>你</Meaning>pron. 你；你们
+n. (You)人名；(柬)尤；(东南亚国家华语)猷<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>spell</Name>
+            <SplittedText>spell</SplittedText>
+            <Symbol>spel</Symbol>
+            <SymbolUs>spɛl</SymbolUs>
+            <Meaning>拼写</Meaning>n. 符咒；一段时间；魅力
+vi. 拼字；轮替
+vt. 拼，拼写；意味着；招致；拼成；迷住；轮值
+n. (Spell)人名；(英)斯佩尔<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>it</Name>
+            <SplittedText>it</SplittedText>
+            <Symbol>aɪ ti</Symbol>
+            <SymbolUs>aɪ ti</SymbolUs>
+            <Meaning>它</Meaning>pron. [指无生命的东西、动物、植物]它；这；那
+pron. 指已提到或将提及的事物、活动、经验、抽象观念等
+pron. 在不分性别或情况不详时指代
+pron. 作无人称动词的主语，表示天气、时日、距离、状态、温度等等
+abbr. 信息技术information technology<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>yes</Name>
+            <SplittedText>yes</SplittedText>
+            <Symbol>jes</Symbol>
+            <SymbolUs>jɛs</SymbolUs>
+            <Meaning>是的</Meaning>n. 是（表示肯定）
+adv. 是, 是的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>thank</Name>
+            <SplittedText>thank</SplittedText>
+            <Symbol>θæŋk</Symbol>
+            <SymbolUs>θæŋk</SymbolUs>
+            <Meaning>谢谢</Meaning>n. 感谢
+vt. 感谢
+int. 谢谢<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>how</Name>
+            <SplittedText>how</SplittedText>
+            <Symbol>haʊ</Symbol>
+            <SymbolUs>haʊ</SymbolUs>
+            <Meaning>如何</Meaning>adv. 如何；多少；多么
+n. 方法；方式
+conj. 如何
+n. (How)人名；(英)豪<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>are</Name>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>fine</Name>
+            <SplittedText>fine</SplittedText>
+            <Symbol>faɪn</Symbol>
+            <SymbolUs>faɪn</SymbolUs>
+            <Meaning>很好的</Meaning>n. 罚款
+adj. 好的；优良的；细小的，精美的；健康的；晴朗的
+vt. 罚款；澄清
+adv. 很好地；精巧地
+n. (Fine)人名；(意)菲内；(英)法恩<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>thanks</Name>
+            <SplittedText>thanks</SplittedText>
+            <Symbol>θæŋks</Symbol>
+            <SymbolUs>θæŋks</SymbolUs>
+            <Meaning>谢谢</Meaning>n. 谢谢（只用复数）
+int. 谢谢<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>Mrs</Name>
+            <SplittedText>Mrs</SplittedText>
+            <Symbol>'misiz</Symbol>
+            <SymbolUs>'misiz</SymbolUs>
+            <Meaning>夫人</Meaning>n. 太太；夫人（用于已婚妇女姓名前的尊称）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>too</Name>
+            <SplittedText>too</SplittedText>
+            <Symbol>tuː</Symbol>
+            <SymbolUs>tu</SymbolUs>
+            <Meaning>也</Meaning>adv. 太；也；很；还；非常；过度<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>this</Name>
+            <SplittedText>this</SplittedText>
+            <Symbol>ðɪs</Symbol>
+            <SymbolUs>ðɪs</SymbolUs>
+            <Meaning>这,这个</Meaning>adj. 这；本；这个；今
+pron. 这；这个；这里
+adv. 这样地；这么
+n. (This)人名；(法)蒂斯<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>she</Name>
+            <SplittedText>she</SplittedText>
+            <Symbol>ʃiː</Symbol>
+            <SymbolUs>ʃi</SymbolUs>
+            <Meaning>她</Meaning>n. 女人；雌性动物
+pron. 她（主格）；它（用来指雌性动物或国家、船舶、地球、月亮等）
+n. (She)人名；(中)佘(普通话·威妥玛)<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>teacher</Name>
+            <SplittedText>teacher</SplittedText>
+            <Symbol>'tiːtʃə</Symbol>
+            <SymbolUs>'titʃɚ</SymbolUs>
+            <Meaning>老师</Meaning>n. 教师；导师
+n. (Teacher)人名；(英)蒂彻<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>friend</Name>
+            <SplittedText>friend</SplittedText>
+            <Symbol>frend</Symbol>
+            <SymbolUs>frɛnd</SymbolUs>
+            <Meaning>朋友</Meaning>n. 朋友；助手；赞助者
+n. (Friend)人名；(英)弗兰德<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>her</Name>
+            <SplittedText>her</SplittedText>
+            <Symbol>hɜː</Symbol>
+            <SymbolUs>hɚ</SymbolUs>
+            <Meaning>她的</Meaning>pron. 她（she的宾格）；她的（she的所有格）；她（指某个国家；一艘船）
+n. （法）埃尔（人名）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>his</Name>
+            <SplittedText>his</SplittedText>
+            <Symbol>hɪz</Symbol>
+            <SymbolUs>hɪz</SymbolUs>
+            <Meaning>他的</Meaning>pron. 他的
+n. (His)人名；(法)伊斯<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>nice</Name>
+            <SplittedText>nice</SplittedText>
+            <Symbol>naɪs</Symbol>
+            <SymbolUs>naɪs</SymbolUs>
+            <Meaning>美好的</Meaning>adj. 精密的；美好的；细微的；和蔼的
+n. (Nice)人名；(英)尼斯<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>to</Name>
+            <SplittedText>to</SplittedText>
+            <Symbol>tə;tu;tuː</Symbol>
+            <SymbolUs>tə;tu;tuː</SymbolUs>
+            <Meaning>到</Meaning>prep. 到；向；（表示时间、方向）朝…方向
+adv. 向前；（门等）关上
+n. (To)人名；(柬)多；(中)脱(普通话·威妥玛)<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>meet</Name>
+            <SplittedText>meet</SplittedText>
+            <Symbol>miːt</Symbol>
+            <SymbolUs>mit</SymbolUs>
+            <Meaning>遇见</Meaning>n. 集会
+vt. 满足；遇见；对付
+adj. 合适的；适宜的
+vi. 相遇；接触
+n. (Meet)人名；(英)米特<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>time</Name>
+            <SplittedText>time</SplittedText>
+            <Symbol>taɪm</Symbol>
+            <SymbolUs>taɪm</SymbolUs>
+            <Meaning>时间</Meaning>n. 时间；时代；次数；节拍；倍数
+adj. 定时的；定期的；分期的
+vt. 计时；测定…的时间；安排…的速度
+n. (Time)人名；(俄)季梅；(英)泰姆；(罗)蒂梅<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>go</Name>
+            <SplittedText>go</SplittedText>
+            <Symbol>gəʊ</Symbol>
+            <SymbolUs>go</SymbolUs>
+            <Meaning>去</Meaning>n. 去；进行；尝试
+vi. 走；达到；运转；趋于
+vt. 忍受；出产；以…打赌
+[复数 goes 第三人称单数 goes 过去式 went 过去分词 gone 现在分词 going]<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>now</Name>
+            <SplittedText>now</SplittedText>
+            <Symbol>naʊ</Symbol>
+            <SymbolUs>naʊ</SymbolUs>
+            <Meaning>现在</Meaning>conj. 由于；既然
+n. 现在；目前
+adj. 现在的
+adv. 现在；如今；立刻<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>bye</Name>
+            <SplittedText>bye</SplittedText>
+            <Symbol>baɪ</Symbol>
+            <SymbolUs>baɪ</SymbolUs>
+            <Meaning>再见</Meaning>n. 轮空；次要的东西
+int. 再见
+adj. 次要的
+n. (Bye)人名；(挪)比埃；(中)拜(广东话·威妥玛)；(英)拜伊；(瑞典)比耶<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>see</Name>
+            <SplittedText>see</SplittedText>
+            <Symbol>siː</Symbol>
+            <SymbolUs>si</SymbolUs>
+            <Meaning>看到</Meaning>vi. 看；看见；领会
+vt. 看见；理解；领会
+n. (See)人名；(英)西伊；(柬)塞；(德)泽<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>tomorrow</Name>
+            <SplittedText>tomorrow</SplittedText>
+            <Symbol>tə'mɒrəʊ</Symbol>
+            <SymbolUs>tə'mɔro</SymbolUs>
+            <Meaning>明天</Meaning>n. 明天；未来
+adv. 明天；未来地（等于to-morrow）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+        </Words>
+      </UIModule>
+      <UIModule>
+        <Name>Module 2 (starter)</Name>
+        <Words>
+          <UIWord>
+            <Name>sit</Name>
+            <SplittedText>sit</SplittedText>
+            <Symbol>sɪt</Symbol>
+            <SymbolUs>sɪt</SymbolUs>
+            <Meaning>坐</Meaning>vi. 坐；位于
+vt. 使就座
+n. (Sit)人名；(东南亚国家华语)硕；(罗)西特<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>down</Name>
+            <SplittedText>down</SplittedText>
+            <Symbol>daʊn</Symbol>
+            <SymbolUs>daʊn</SymbolUs>
+            <Meaning>下来</Meaning>prep. 沿着，往下
+n. 软毛，绒毛；[地质] 开阔的高地
+adj. 向下的
+vt. 打倒，击败
+adv. 向下，下去；在下面
+vi. 下降；下去
+n. (Down)人名；(英)唐<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>sit down</Name>
+            <Meaning>坐下来</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>open</Name>
+            <SplittedText>open</SplittedText>
+            <Symbol>'əʊp(ə)n</Symbol>
+            <SymbolUs>'opən</SymbolUs>
+            <Meaning>开放</Meaning>n. 公开；空旷；户外
+adj. 公开的；敞开的；空旷的；坦率的；营业着的
+vt. 公开；打开
+vi. 开始；展现<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>book</Name>
+            <SplittedText>book</SplittedText>
+            <Symbol>bʊk</Symbol>
+            <SymbolUs>bʊk</SymbolUs>
+            <Meaning>书</Meaning>n. 书籍；卷；帐簿；名册；工作簿
+vt. 预订；登记
+n. (Book)人名；(中)卜(广东话·威妥玛)；(朝)北；(英)布克；(瑞典)博克<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>listen</Name>
+            <SplittedText>listen</SplittedText>
+            <Symbol>'lɪs(ə)n</Symbol>
+            <SymbolUs>'lɪsn</SymbolUs>
+            <Meaning>听</Meaning>n. 听，倾听
+vi. 听，倾听；听从，听信<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>draw</Name>
+            <SplittedText>draw</SplittedText>
+            <Symbol>drɔː</Symbol>
+            <SymbolUs>drɔ</SymbolUs>
+            <Meaning>画</Meaning>n. 平局；抽签
+vi. 拉；拖
+vt. 画；拉；吸引
+n. (Draw)人名；(英)德劳<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>put</Name>
+            <SplittedText>put</SplittedText>
+            <Symbol>pʊt</Symbol>
+            <SymbolUs>pʊt</SymbolUs>
+            <Meaning>放置</Meaning>n. 掷；笨蛋；投击；怪人
+adj. 固定不动的
+vi. 出发；击；航行；发芽
+vt. 放；表达；移动；安置；赋予
+n. (Put)人名；(泰、缅)布<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>up</Name>
+            <SplittedText>up</SplittedText>
+            <Symbol>ʌp</Symbol>
+            <SymbolUs>ʌp</SymbolUs>
+            <Meaning>向上地</Meaning>prep. 在…之上；向…的较高处
+n. 上升；繁荣
+adj. 涨的；起床的；向上的
+adv. 起来；上涨；向上<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>hand</Name>
+            <SplittedText>hand</SplittedText>
+            <Symbol>hænd</Symbol>
+            <SymbolUs>hænd</SymbolUs>
+            <Meaning>手</Meaning>n. 手，手艺；帮助；指针；插手
+vt. 传递，交给；支持；搀扶
+n. (Hand)人名；(英、瑞典)汉德<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>stand</Name>
+            <SplittedText>stand</SplittedText>
+            <Symbol>stænd</Symbol>
+            <SymbolUs>stænd</SymbolUs>
+            <Meaning>站</Meaning>n. 站立；立场；看台；停止
+vi. 站立；位于；停滞
+vt. 使站立；忍受；抵抗<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>stand up</Name>
+            <Meaning>起立</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>close</Name>
+            <SplittedText>close</SplittedText>
+            <Symbol>kləʊs</Symbol>
+            <SymbolUs>kloz</SymbolUs>
+            <Meaning>关闭</Meaning>n. 结束
+adj. 紧密的；亲密的；亲近的
+vt. 关；结束；使靠近
+vi. 关；结束；关闭
+adv. 紧密地
+n. (Close)人名；(西)克洛塞；(英、法)克洛斯<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>new</Name>
+            <SplittedText>new</SplittedText>
+            <Symbol>njuː</Symbol>
+            <SymbolUs>nu</SymbolUs>
+            <Meaning>新</Meaning>adj. 新的，新鲜的；更新的；初见的
+adv. 新近
+n. (New)人名；(英)纽<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>student</Name>
+            <SplittedText>student</SplittedText>
+            <Symbol>'stjuːd(ə)nt</Symbol>
+            <SymbolUs>'studnt</SymbolUs>
+            <Meaning>学生</Meaning>n. 学生；学者
+n. (Student)人名；(德)施图登特<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>here</Name>
+            <SplittedText>here</SplittedText>
+            <Symbol>hɪə</Symbol>
+            <SymbolUs>hɪr</SymbolUs>
+            <Meaning>在这里</Meaning>n. 这里
+adv. 在这里；此时
+int. 嘿！；喂！
+n. (Here)人名；(罗)赫尔施<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>in</Name>
+            <SplittedText>in</SplittedText>
+            <Symbol>ɪn</Symbol>
+            <SymbolUs>ɪn</SymbolUs>
+            <Meaning>在... 里</Meaning>prep. 按照（表示方式）；从事于；在…之内
+n. 执政者；门路；知情者
+adj. 在里面的；时髦的
+adv. 进入；当选；（服装等）时髦；在屋里
+n. (In)人名；(中)演(广东话·威妥玛)；(柬)殷(用于名字第一节)， 因；(日)寅 (名)<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>one</Name>
+            <SplittedText>one</SplittedText>
+            <Symbol>wʌn</Symbol>
+            <SymbolUs>wʌn</SymbolUs>
+            <Meaning>一个</Meaning>num. 一；一个
+n. 一
+adj. 一的；唯一的
+pron. 一个人；任何人
+n. (One)人名；(老)温<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>two</Name>
+            <SplittedText>two</SplittedText>
+            <Symbol>tuː</Symbol>
+            <SymbolUs>tu</SymbolUs>
+            <Meaning>两个</Meaning>num. 二
+n. 两个
+adj. 两个的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>three</Name>
+            <SplittedText>three</SplittedText>
+            <Symbol>θriː</Symbol>
+            <SymbolUs>θri</SymbolUs>
+            <Meaning>三个</Meaning>num. 三
+n. 三，三个
+adj. 三的，三个的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>four</Name>
+            <SplittedText>four</SplittedText>
+            <Symbol>fɔː</Symbol>
+            <SymbolUs>fɔr</SymbolUs>
+            <Meaning>四个</Meaning>num. 四；四个
+adj. 四的；四个的
+n. (Four)人名；(西)福尔；(法)富尔<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>five</Name>
+            <SplittedText>five</SplittedText>
+            <Symbol>faɪv</Symbol>
+            <SymbolUs>faɪv</SymbolUs>
+            <Meaning>五</Meaning>num. 五，五个
+n. 五，五个；五美元钞票
+adj. 五的；五个的
+n. (Five)人名；(挪)菲弗<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>six</Name>
+            <SplittedText>six</SplittedText>
+            <Symbol>sɪks</Symbol>
+            <SymbolUs>sɪks</SymbolUs>
+            <Meaning>六个</Meaning>num. 六，六个
+n. 六，六个
+n. (Six)人名；(法、德)西克斯<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>seven</Name>
+            <SplittedText>seven</SplittedText>
+            <Symbol>'sev(ə)n</Symbol>
+            <SymbolUs>'sɛvn</SymbolUs>
+            <Meaning>七个</Meaning>num. 七个，七
+n. 七个，七
+adj. 七的；七个的
+n. (Seven)人名；(土库、阿塞)谢文；(土)塞文<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>eight</Name>
+            <SplittedText>eight</SplittedText>
+            <Symbol>eɪt</Symbol>
+            <SymbolUs>et</SymbolUs>
+            <Meaning>八</Meaning>num. 八；八个；第八
+n. 八字形
+adj. 八的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>nine</Name>
+            <SplittedText>nine</SplittedText>
+            <Symbol>naɪn</Symbol>
+            <SymbolUs>naɪn</SymbolUs>
+            <Meaning>9</Meaning>num. 九；九个
+n. 九，九个
+adj. 九的，九个的
+n. (Nine)人名；(塞)尼内<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>ten</Name>
+            <SplittedText>ten</SplittedText>
+            <Symbol>ten</Symbol>
+            <SymbolUs>tɛn</SymbolUs>
+            <Meaning>十</Meaning>num. 十个，十
+n. (Ten)人名；(英)坦恩；(意)泰恩；(柬)登<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>telephone</Name>
+            <SplittedText>telephone</SplittedText>
+            <Symbol>'telɪfəʊn</Symbol>
+            <SymbolUs>'tɛlə'fon</SymbolUs>
+            <Meaning>电话</Meaning>n. （美）电话；电话机；电话耳机
+vt. 打电话给…
+vi. 打电话<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>number</Name>
+            <SplittedText>number</SplittedText>
+            <Symbol>'nʌmbə</Symbol>
+            <SymbolUs>'nʌmbɚ</SymbolUs>
+            <Meaning>数量\号码</Meaning>n. 数；（杂志等的）期；号码；数字；算术
+vt. 编号；计入；数…的数目；使为数有限
+vi. 计入；总数达到<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>old</Name>
+            <SplittedText>old</SplittedText>
+            <Symbol>əʊld</Symbol>
+            <SymbolUs>old</SymbolUs>
+            <Meaning>老</Meaning>n. 古时
+adj. 陈旧的，古老的；年老的
+n. (Old)人名；(英)奥尔德<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>how old</Name>
+            <Meaning>多大</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>twelve</Name>
+            <SplittedText>twelve</SplittedText>
+            <Symbol>twelv</Symbol>
+            <SymbolUs>twɛlv</SymbolUs>
+            <Meaning>十二个</Meaning>num. 十二；十二个
+n. 十二；十二个
+adj. 十二的；十二个的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>eleven</Name>
+            <SplittedText>eleven</SplittedText>
+            <Symbol>ɪ'lev(ə)n</Symbol>
+            <SymbolUs>ɪ'lɛvn</SymbolUs>
+            <Meaning>11</Meaning>num. 十一；十一个
+n. 十一；十一个
+adj. 十一的；十一个的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>thirteen</Name>
+            <SplittedText>thirteen</SplittedText>
+            <Symbol>θɜː'tiːn; 'θɜːtiːn</Symbol>
+            <SymbolUs>'θɝ'tin</SymbolUs>
+            <Meaning>13</Meaning>n. 十三；十三岁；十三个
+num. 十三
+adj. 十三的；十三个的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>fourteen</Name>
+            <SplittedText>fourteen</SplittedText>
+            <Symbol>fɔː'tiːn; 'fɔːtiːn</Symbol>
+            <SymbolUs>,fɔr'tin</SymbolUs>
+            <Meaning>14</Meaning>num. 十四；十四个；第十四
+n. 十四的记号；十四岁；十四点钟；十五世纪<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>fifteen</Name>
+            <SplittedText>fifteen</SplittedText>
+            <Symbol>fɪf'tiːn; 'fɪftiːn</Symbol>
+            <SymbolUs>,fɪf'tin</SymbolUs>
+            <Meaning>15</Meaning>n. 十五；十五个；十五人组成的橄榄球队
+num. 十五
+adj. 十五的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>sixteen</Name>
+            <SplittedText>sixteen</SplittedText>
+            <Symbol>sɪks'tiːn; 'sɪkstiːn</Symbol>
+            <SymbolUs>,sɪks'tin</SymbolUs>
+            <Meaning>十六岁</Meaning>num. 十六
+adj. 十六的，十六个的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>seventeen</Name>
+            <SplittedText>seventeen</SplittedText>
+            <Symbol>sev(ə)n'tiːn; 'sev(ə)ntiːn</Symbol>
+            <SymbolUs>,sɛvn'tin</SymbolUs>
+            <Meaning>十七岁</Meaning>n. 十七，十七个
+num. 十七
+adj. 十七岁的；十七的，十七个的
+n. (Seventeen)人名；(瑞典)塞文滕<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>eighteen</Name>
+            <SplittedText>eighteen</SplittedText>
+            <Symbol>eɪ'tiːn; 'eɪtiːn</Symbol>
+            <SymbolUs>,e'tin</SymbolUs>
+            <Meaning>十八岁</Meaning>n. 十八，十八个
+num. 十八
+adj. 十八个的，十八的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>nineteen</Name>
+            <SplittedText>nineteen</SplittedText>
+            <Symbol>naɪn'tiːn; 'naɪntiːn</Symbol>
+            <SymbolUs>,naɪn'tin</SymbolUs>
+            <Meaning>19</Meaning>num. 十九<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>twenty</Name>
+            <SplittedText>twenty</SplittedText>
+            <Symbol>'twentɪ</Symbol>
+            <SymbolUs>'twɛnti</SymbolUs>
+            <Meaning>二十</Meaning>num. 二十
+n. 二十；二十年代
+adj. 二十的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>boy</Name>
+            <SplittedText>boy</SplittedText>
+            <Symbol>bɒɪ</Symbol>
+            <SymbolUs>bɔɪ</SymbolUs>
+            <Meaning>男孩</Meaning>n. 男孩；男人
+n. (Boy)人名；(英、德、西、意、刚(金)、印尼、瑞典)博伊；(法)布瓦<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>girl</Name>
+            <SplittedText>girl</SplittedText>
+            <Symbol>gɜːl</Symbol>
+            <SymbolUs>ɡɝl</SymbolUs>
+            <Meaning>女孩</Meaning>n. 女孩；姑娘，未婚女子；女职员，女演员；（男人的）女朋友
+n. （捷）吉尔<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>desk</Name>
+            <SplittedText>desk</SplittedText>
+            <Symbol>desk</Symbol>
+            <SymbolUs>dɛsk</SymbolUs>
+            <Meaning>桌子</Meaning>n. 办公桌；服务台；编辑部；（美）讲道台；乐谱架
+adj. 书桌的；桌上用的；伏案做的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>chair</Name>
+            <SplittedText>chair</SplittedText>
+            <Symbol>tʃeə</Symbol>
+            <SymbolUs>tʃɛr</SymbolUs>
+            <Meaning>椅子</Meaning>n. 椅子；讲座；（会议的）主席位；大学教授的职位
+vt. 担任（会议的）主席；使…入座；使就任要职
+n. (Chair)人名；(法)谢尔<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>bag</Name>
+            <SplittedText>bag</SplittedText>
+            <Symbol>bæg</Symbol>
+            <SymbolUs>bæɡ</SymbolUs>
+            <Meaning>包</Meaning>n. 袋；猎获物；（俚）一瓶啤酒
+vt. 猎获；把…装入袋中；占据，私吞；使膨大
+vi. 松垂<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+        </Words>
+      </UIModule>
+      <UIModule>
+        <Name>Module 3 (starter)</Name>
+        <Words>
+          <UIWord>
+            <Name>your're welcome</Name>
+            <Meaning>不用谢</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>in English</Name>
+            <Meaning>用英语説</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>a</Name>
+            <SplittedText>a</SplittedText>
+            <Symbol>ə; eɪ</Symbol>
+            <SymbolUs>ə; e</SymbolUs>
+            <Meaning>一个</Meaning>n. 字母A；第一流的；学业成绩达最高标准的评价符号
+abbr. [物]安（ampere）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>write</Name>
+            <SplittedText>write</SplittedText>
+            <Symbol>raɪt</Symbol>
+            <SymbolUs>raɪt</SymbolUs>
+            <Meaning>写</Meaning>vi. 写，写字；写作，作曲；写信
+vt. 写，书写；写信给；著述<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>on</Name>
+            <SplittedText>on</SplittedText>
+            <Symbol>ɒn</Symbol>
+            <SymbolUs>ɑn</SymbolUs>
+            <Meaning>在。。。上面</Meaning>prep. 向，朝……；关于；在……之上；在……时候
+adj. 开着的；发生着的，正在进行中
+adv. 向前地；作用中，行动中；继续着
+n. (On)人名；(日)温(姓、名)；(缅、柬、印)翁<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>the</Name>
+            <SplittedText>the</SplittedText>
+            <Symbol>ðə</Symbol>
+            <SymbolUs>ðə</SymbolUs>
+            <Meaning>定冠词</Meaning>art. 这；那
+adv. 更加（用于比较级，最高级前）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>blackboard</Name>
+            <SplittedText>blackboard</SplittedText>
+            <Symbol>'blækbɔːd</Symbol>
+            <SymbolUs>'blækbɔrd</SymbolUs>
+            <Meaning>黑板</Meaning>n. 黑板<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>OK</Name>
+            <SplittedText>OK</SplittedText>
+            <Symbol>'əu'kei, ,əu'kei, 'əukei</Symbol>
+            <SymbolUs>'əu'kei, ,əu'kei, 'əukei</SymbolUs>
+            <Meaning>好吧</Meaning>n. 同意
+adj. 好的；不错的
+vt. 对…表示同意
+int. 好；可以
+adv. 行；很好<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>pen</Name>
+            <SplittedText>pen</SplittedText>
+            <Symbol>pen</Symbol>
+            <SymbolUs>pɛn</SymbolUs>
+            <Meaning>笔\钢笔</Meaning>n. 钢笔；作家；围栏
+vt. 写；关入栏中
+n. (Pen)人名；(法)庞；(俄、塞、英、意)佩恩；(柬)宾<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>no</Name>
+            <SplittedText>no</SplittedText>
+            <Symbol>nəʊ</Symbol>
+            <SymbolUs>no</SymbolUs>
+            <Meaning>不、没有</Meaning>n. 不；否决票
+abbr. 数字（number）；元素锘（nobelium）的符号
+adj. 没有；不是
+adv. 不
+n. (No)人名；(柬)诺；(越)努<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>pencil</Name>
+            <SplittedText>pencil</SplittedText>
+            <Symbol>'pens(ə)l; -sɪl</Symbol>
+            <SymbolUs>'pɛnsl</SymbolUs>
+            <Meaning>铅笔</Meaning>n. 铅笔；笔状物
+vt. 用铅笔写；用眉笔涂
+vi. 成铅笔状<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>do</Name>
+            <SplittedText>do</SplittedText>
+            <Symbol>duː</Symbol>
+            <SymbolUs>du</SymbolUs>
+            <Meaning>做</Meaning>vi. 行，足够；生长
+n. 要求；规定；C大调音阶中的第一音
+v. 做；干；学习；研究；进行；完成；解答；整理；算出；引起；行过
+aux. 助动词（构成疑问句和否定句）；（代替动词）；（用于加强语气）
+n. （英）多（人名Dorothea和Dorothy的昵称）
+n. （口语）事件；（主英国口语）诈骗；（主英国、新西兰口语）宴会；（口语）必须做到的事情<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>bird</Name>
+            <SplittedText>bird</SplittedText>
+            <Symbol>bɜːd</Symbol>
+            <SymbolUs>bɝd</SymbolUs>
+            <Meaning>鸟</Meaning>n. 鸟；家伙；羽毛球
+vt. 向…喝倒彩；起哄
+vi. 猎鸟；观察研究野鸟
+n. (Bird)人名；(英、西)伯德<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>cat</Name>
+            <SplittedText>cat</SplittedText>
+            <Symbol>kæt</Symbol>
+            <SymbolUs>kæt</SymbolUs>
+            <Meaning>猫</Meaning>n. 猫，猫科动物<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>dog</Name>
+            <SplittedText>dog</SplittedText>
+            <Symbol>dɒg</Symbol>
+            <SymbolUs>dɔɡ</SymbolUs>
+            <Meaning>狗</Meaning>n. 狗；丑女人；卑鄙的人；(俚)朋友
+vt. 跟踪；尾随<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>flower</Name>
+            <SplittedText>flower</SplittedText>
+            <Symbol>'flaʊə</Symbol>
+            <SymbolUs>'flaʊɚ</SymbolUs>
+            <Meaning>花</Meaning>n. 花；精华；开花植物
+vt. 使开花；用花装饰
+vi. 成熟，发育；开花；繁荣；旺盛
+n. (Flower)人名；(英)弗劳尔<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>help</Name>
+            <SplittedText>help</SplittedText>
+            <Symbol>help</Symbol>
+            <SymbolUs>hɛlp</SymbolUs>
+            <Meaning>帮助</Meaning>n. 帮助；补救办法；帮忙者；有益的东西
+vt. 帮助；促进；治疗；补救
+vi. 帮助；有用；招待
+n. (Help)人名；(芬)海尔普<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>me</Name>
+            <SplittedText>me</SplittedText>
+            <Symbol>miː</Symbol>
+            <SymbolUs>mi</SymbolUs>
+            <Meaning>我</Meaning>n. 自我；极端自私的人；自我的一部分
+pron. 我（宾格）
+n. (Me)人名；(日)马(姓)；(朝)袂；(阿拉伯、柬、老)梅<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>of</Name>
+            <SplittedText>of</SplittedText>
+            <Symbol>ɒv; (ə)v</Symbol>
+            <SymbolUs>ʌv; əv</SymbolUs>
+            <Meaning>。。。的</Meaning>prep. 关于；属于；…的；由…组成的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>course</Name>
+            <SplittedText>course</SplittedText>
+            <Symbol>kɔːs</Symbol>
+            <SymbolUs>kɔrs</SymbolUs>
+            <Meaning>当然</Meaning>n. 科目；课程；过程；进程；道路；路线，航向；一道菜
+vt. 追赶；跑过
+vi. 指引航线；快跑<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>of course</Name>
+            <Meaning>当然的</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>classroom</Name>
+            <SplittedText>classroom</SplittedText>
+            <Symbol>'klɑːsruːm; -rʊm</Symbol>
+            <SymbolUs>'klæs'rʊm; 'klæs'rʊm</SymbolUs>
+            <Meaning>教室</Meaning>n. 教室<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>know</Name>
+            <SplittedText>know</SplittedText>
+            <Symbol>nəʊ</Symbol>
+            <SymbolUs>no</SymbolUs>
+            <Meaning>知道</Meaning>vi. 了解；熟悉；确信
+vt. 知道；认识；懂得<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>say</Name>
+            <SplittedText>say</SplittedText>
+            <Symbol>seɪ</Symbol>
+            <SymbolUs>se</SymbolUs>
+            <Meaning>说</Meaning>vt. 讲；说明；例如；声称；假设；指明
+vi. 讲；表示；念；假定；背诵
+
+n. (Say)人名；(土)萨伊；(法、老、柬)赛；(英)塞伊；(匈、罗)绍伊<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>that</Name>
+            <SplittedText>that</SplittedText>
+            <Symbol>ðæt; ðət</Symbol>
+            <SymbolUs>ðæt</SymbolUs>
+            <Meaning>那</Meaning>conj. 因为；以至于
+adj. 那；那个
+pron. 那；那个
+adv. 那么；那样
+n. (That)人名；(德)塔特<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>again</Name>
+            <SplittedText>again</SplittedText>
+            <Symbol>ə'gen; ə'geɪn</Symbol>
+            <SymbolUs>ə'ɡɛn</SymbolUs>
+            <Meaning>再一次</Meaning>adv. 又，此外；再一次；再说；增加
+n. （英、保）阿盖恩<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>welcome</Name>
+            <SplittedText>welcome</SplittedText>
+            <Symbol>ˈwɛlkəm</Symbol>
+            <SymbolUs>ˈwelkəm</SymbolUs>
+            <Meaning>欢迎</Meaning>n. 欢迎
+vt. 欢迎
+adj. 受欢迎的
+int. 欢迎
+n. (Welcome)人名；(英)韦尔科姆<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>you're welcome</Name>
+            <Meaning>不用谢</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>black</Name>
+            <SplittedText>black</SplittedText>
+            <Symbol>blæk</Symbol>
+            <SymbolUs>blæk</SymbolUs>
+            <Meaning>黑色的</Meaning>n. 黑色；黑人；黑颜料
+adj. 黑色的；黑人的；邪恶的
+vt. 使变黑；把鞋油等涂在…上；把（眼眶）打成青肿
+vi. 变黑
+n. (Black)人名；(英、西)布莱克；(德、葡、捷)布拉克<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>white</Name>
+            <SplittedText>white</SplittedText>
+            <Symbol>wʌɪt</Symbol>
+            <SymbolUs>waɪt</SymbolUs>
+            <Meaning>白色的</Meaning>n. 白色；洁白；白种人
+adj. 白色的；白种的；纯洁的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>blue</Name>
+            <SplittedText>blue</SplittedText>
+            <Symbol>bluː</Symbol>
+            <SymbolUs>blu</SymbolUs>
+            <Meaning>蓝色的</Meaning>adj. 蓝色的；沮丧的，忧郁的；下流的
+n. 蓝色；[复数]（美国海、陆、空三军穿的）蓝色制服；蓝颜料；[the blue(s)][用作单数或复数]布鲁斯（歌曲）（一种伤感的美国黑人民歌
+vi. 变成蓝色，呈蓝色
+vt. 把…染成蓝色；使成蓝色；给…用上蓝剂；用上蓝剂于
+n. （英、西、意）布卢（人名）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>green</Name>
+            <SplittedText>green</SplittedText>
+            <Symbol>griːn</Symbol>
+            <SymbolUs>ɡrin</SymbolUs>
+            <Meaning>绿色</Meaning>n. 绿色；青春
+adj. 绿色的；青春的
+vt. 使…变绿色
+vi. 变绿色
+n. (Green)人名；(英、意)格林；(瑞典、芬)格伦<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>yellow</Name>
+            <SplittedText>yellow</SplittedText>
+            <Symbol>'jeləʊ</Symbol>
+            <SymbolUs>'jeloʊ</SymbolUs>
+            <Meaning>黄色的</Meaning>n. 黄色；黄种人；黄色颜料
+adj. 黄色的；黄皮肤的
+vt. 使变黄或发黄
+vi. 变黄或发黄<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>red</Name>
+            <SplittedText>red</SplittedText>
+            <Symbol>red</Symbol>
+            <SymbolUs>rɛd</SymbolUs>
+            <Meaning>红色的</Meaning>n. 红色，红颜料；赤字
+adj. 红色的；红肿的，充血的
+n. (Red)人名；(英、德)雷德<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>brown</Name>
+            <SplittedText>brown</SplittedText>
+            <Symbol>braʊn</Symbol>
+            <SymbolUs>braʊn</SymbolUs>
+            <Meaning>布朗</Meaning>n. 褐色，棕色
+adj. 棕色的，褐色的；太阳晒黑的
+vt. 使变成褐色
+vi. 变成褐色
+n. (Brown)人名；(英、意、芬、捷、德、法、西、葡)布朗<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>orange</Name>
+            <SplittedText>orange</SplittedText>
+            <Symbol>'ɒrɪn(d)ʒ</Symbol>
+            <SymbolUs>'ɔrɪndʒ</SymbolUs>
+            <Meaning>橙色</Meaning>n. 橙；橙色；桔子
+adj. 橙色的；橘色的
+n. (Orange)人名；(英)奥林奇；(法)奥朗热<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>colour</Name>
+            <SplittedText>colour</SplittedText>
+            <Symbol>'kʌlə</Symbol>
+            <SymbolUs>'kʌlɚ</SymbolUs>
+            <Meaning>颜色</Meaning>n. 颜色；风格；气色，面色；外貌
+vt. 把…涂颜色，粉饰；歪曲；使脸红
+vi. 变色<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>and</Name>
+            <SplittedText>and</SplittedText>
+            <Symbol>ənd; (ə)n; ænd</Symbol>
+            <SymbolUs>ənd, ən,ænd</SymbolUs>
+            <Meaning>和</Meaning>conj. 和，与；就；而且；但是；然后
+n. (And)人名；(土、瑞典)安德<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+        </Words>
+      </UIModule>
+      <UIModule>
+        <Name>Module 4 (starter)</Name>
+        <Words />
+      </UIModule>
+    </Modules>
+  </UIBook>
+  <UIBook>
+    <Name>七下</Name>
+    <Modules>
+      <UIModule>
+        <Name>Module 1</Name>
+        <Words>
+          <UIWord>
+            <Name>hill</Name>
+            <SplittedText>hill</SplittedText>
+            <Symbol>hɪl</Symbol>
+            <SymbolUs>hɪl</SymbolUs>
+            <Meaning>山</Meaning>n. 小山；丘陵；斜坡；山冈
+n. (Hill)人名；(法、西)伊尔；(德、英、匈、捷、罗、芬、瑞典)希尔<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>english</Name>
+            <SplittedText>english</SplittedText>
+            <Symbol>'iŋɡliʃ</Symbol>
+            <SymbolUs>'iŋɡliʃ</SymbolUs>
+            <Meaning>英语</Meaning>n. 英语；英文；英国人；英格兰人
+adj. 英文的；英国的；英国人的
+vt. 把…译成英语<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>chinese</Name>
+            <SplittedText>chinese</SplittedText>
+            <Symbol>,tʃai'ni:z</Symbol>
+            <SymbolUs>,tʃai'ni:z</SymbolUs>
+            <Meaning>中国</Meaning>n. 中文，汉语；中国人
+adj. 中国的，中国人的；中国话的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>status</Name>
+            <SplittedText>status</SplittedText>
+            <Symbol>'steɪtəs</Symbol>
+            <SymbolUs>ˈstætəs; ˈstetəs</SymbolUs>
+            <Meaning>状态</Meaning>n. 地位；状态；情形；重要身份<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+        </Words>
+      </UIModule>
+      <UIModule>
+        <Name>Module 2</Name>
+        <Words />
+      </UIModule>
+    </Modules>
+  </UIBook>
+  <UIBook>
+    <Name>八上</Name>
+    <Modules>
+      <UIModule>
+        <Name>Module 1</Name>
+        <Words>
+          <UIWord>
+            <Name>pronounce</Name>
+            <SplittedText>pro noun ce</SplittedText>
+            <Symbol>prə'naʊns</Symbol>
+            <SymbolUs>prə'naʊns</SymbolUs>
+            <Meaning>发...音</Meaning>vt. 发音；宣判；断言
+vi. 发音；作出判断<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>correct</Name>
+            <SplittedText>corr ect</SplittedText>
+            <Symbol>kə'rekt</Symbol>
+            <SymbolUs>kə'rɛkt</SymbolUs>
+            <Meaning>正确的</Meaning>adj. 正确的；恰当的；端正的
+vt. 改正；告诫
+vi. 调整；纠正错误<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>spelling</Name>
+            <SplittedText>spell ing</SplittedText>
+            <Symbol>'spelɪŋ</Symbol>
+            <SymbolUs>'spɛlɪŋ</SymbolUs>
+            <Meaning>拼写</Meaning>n. 拼写；拼字；拼法
+v. 拼写；意味着（spell的ing形式）；迷住
+n. (Spelling)人名；(英)斯佩林<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>word</Name>
+            <SplittedText>word</SplittedText>
+            <Symbol>wɜːd</Symbol>
+            <SymbolUs>wɝd</SymbolUs>
+            <Meaning>词</Meaning>n. [语] 单词；话语；消息；诺言；命令
+vt. 用言辞表达
+n. (Word)人名；(英)沃德<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>practise</Name>
+            <SplittedText>prac tise</SplittedText>
+            <Symbol>'præktɪs</Symbol>
+            <SymbolUs>'præktɪs</SymbolUs>
+            <Meaning>练习</Meaning>vi. 练习，实践；实施，实行；从事
+vt. 练习，实践；实施，实行<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>match</Name>
+            <SplittedText>mat ch</SplittedText>
+            <Symbol>mætʃ</Symbol>
+            <SymbolUs>mætʃ</SymbolUs>
+            <Meaning>匹配</Meaning>n. 比赛，竞赛；匹配；对手；火柴
+vi. 比赛；匹配；相配，相称；相比
+vt. 使比赛；使相配；敌得过，比得上；相配；与…竞争<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>meaning</Name>
+            <SplittedText>mean ing</SplittedText>
+            <Symbol>'miːnɪŋ</Symbol>
+            <SymbolUs>'minɪŋ</SymbolUs>
+            <Meaning>意义</Meaning>n. 意义；含义；意图
+v. 意味；意思是（mean的ing形式）
+adj. 意味深长的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>complete</Name>
+            <SplittedText>comp lete</SplittedText>
+            <Symbol>kəm'pliːt</Symbol>
+            <SymbolUs>kəm'plit</SymbolUs>
+            <Meaning>完整的</Meaning>adj. 完整的；完全的；彻底的
+vt. 完成<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>sentence</Name>
+            <SplittedText>sen ten ce</SplittedText>
+            <Symbol>'sent(ə)ns</Symbol>
+            <SymbolUs>'sɛntəns</SymbolUs>
+            <Meaning>句子</Meaning>n. [语][计] 句子，命题；宣判，判决
+vt. 判决，宣判<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>dictionary</Name>
+            <SplittedText>dic tion ary</SplittedText>
+            <Symbol>'dɪkʃ(ə)n(ə)rɪ</Symbol>
+            <SymbolUs>'dɪkʃə'nɛri</SymbolUs>
+            <Meaning>字典</Meaning>n. 字典；词典<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>grammar</Name>
+            <SplittedText>gram mar</SplittedText>
+            <Symbol>'græmə</Symbol>
+            <SymbolUs>'græmɚ</SymbolUs>
+            <Meaning>语法</Meaning>n. 语法；语法书<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>letter</Name>
+            <SplittedText>le tter</SplittedText>
+            <Symbol>'letə</Symbol>
+            <SymbolUs>'lɛtɚ</SymbolUs>
+            <Meaning>字母，信</Meaning>n. 信；字母，文字；证书；文学，学问；字面意义
+vt. 写字母于
+vi. 写印刷体字母
+n. (Letter)人名；(英)莱特<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>look up</Name>
+            <SplittedText>look</SplittedText>
+            <Symbol>lʊk</Symbol>
+            <SymbolUs>lʊk</SymbolUs>
+            <Meaning>查找</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>mistake</Name>
+            <SplittedText>mis take</SplittedText>
+            <Symbol>mɪ'steɪk</Symbol>
+            <SymbolUs>mɪ'stek</SymbolUs>
+            <Meaning>错误</Meaning>n. 错误；误会；过失
+vt. 弄错；误解
+vi. 弄错；误解<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>make a mistake</Name>
+            <Meaning>犯错误</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>understand</Name>
+            <SplittedText>under stand</SplittedText>
+            <Symbol>ʌndə'stænd</Symbol>
+            <SymbolUs>'ʌndɚ'stænd</SymbolUs>
+            <Meaning>理解</Meaning>vi. 理解；懂得；熟悉
+vt. 理解；懂；获悉；推断；省略<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>advice</Name>
+            <SplittedText>ad vice</SplittedText>
+            <Symbol>əd'vaɪs</Symbol>
+            <SymbolUs>ædˈvaɪs; əd'vaɪs</SymbolUs>
+            <Meaning>建议</Meaning>n. 建议；忠告；劝告；通知<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>should</Name>
+            <SplittedText>shou ld</SplittedText>
+            <Symbol>ʃəd; strong form ʃʊd</Symbol>
+            <SymbolUs>ʃəd; strong form ʃʊd</SymbolUs>
+            <Meaning>应该</Meaning>aux. 应该；就；可能；将要<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>possible</Name>
+            <SplittedText>poss ible</SplittedText>
+            <Symbol>'pɒsɪb(ə)l</Symbol>
+            <SymbolUs>'pɑsəbl</SymbolUs>
+            <Meaning>可能的</Meaning>n. 可能性；合适的人；可能的事物
+adj. 可能的；合理的；合适的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>write down</Name>
+            <Meaning>写下</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>notebook</Name>
+            <SplittedText>note book</SplittedText>
+            <Symbol>'nəʊtbʊk</Symbol>
+            <SymbolUs>'notbʊk</SymbolUs>
+            <Meaning>笔记本</Meaning>n. 笔记本，笔记簿；手册<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>forget</Name>
+            <SplittedText>for get</SplittedText>
+            <Symbol>fə'get</Symbol>
+            <SymbolUs>fɚ'ɡɛt</SymbolUs>
+            <Meaning>忘记</Meaning>vi. 忘记
+vt. 忘记；忽略
+
+n. (Forget)人名；(法)福尔热<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>pronounce</Name>
+            <SplittedText>pro noun ce</SplittedText>
+            <Symbol>prə'naʊns</Symbol>
+            <SymbolUs>prə'naʊns</SymbolUs>
+            <Meaning>发音</Meaning>vt. 发音；宣判；断言
+vi. 发音；作出判断<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>aloud</Name>
+            <SplittedText>a lou d</SplittedText>
+            <Symbol>ə'laʊd</Symbol>
+            <SymbolUs>ə'laʊd</SymbolUs>
+            <Meaning>大声</Meaning>adv. 大声地；出声地<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>radio</Name>
+            <SplittedText>ra dio</SplittedText>
+            <Symbol>'reɪdɪəʊ</Symbol>
+            <SymbolUs>'redɪo</SymbolUs>
+            <Meaning>广播</Meaning>n. 收音机；无线电广播设备
+vt. 用无线电发送
+vi. 用无线电进行通信
+n. (Radio)人名；(西)拉迪奥<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>pronunciation</Name>
+            <SplittedText>pro nun ci ation</SplittedText>
+            <Symbol>prə,nʌnsɪ'eɪʃ(ə)n</Symbol>
+            <SymbolUs>prə,nʌnsɪ'eʃən</SymbolUs>
+            <Meaning>发音</Meaning>n. 发音；读法<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>key</Name>
+            <SplittedText>key</SplittedText>
+            <Symbol>kiː</Symbol>
+            <SymbolUs>ki:</SymbolUs>
+            <Meaning>关键性的</Meaning>n. （打字机等的）键；关键；钥匙
+adj. 关键的
+vt. 键入；锁上；调节…的音调；提供线索
+vi. 使用钥匙
+n. (Key)人名；(英)基；(德、荷、瑞典)凯<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>main</Name>
+            <SplittedText>main</SplittedText>
+            <Symbol>meɪn</Symbol>
+            <SymbolUs>mein</SymbolUs>
+            <Meaning>主要</Meaning>n. 主要部分，要点；体力；总管道
+adj. 主要的，最重要的；全力的
+n. (Main)人名；(德)迈因；(西)马因；(英、法)梅因<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>excellent</Name>
+            <SplittedText>ex cell ent</SplittedText>
+            <Symbol>'eks(ə)l(ə)nt</Symbol>
+            <SymbolUs>'ɛksələnt</SymbolUs>
+            <Meaning>优秀的</Meaning>adj. 卓越的；极好的；杰出的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>agree</Name>
+            <SplittedText>ag ree</SplittedText>
+            <Symbol>ə'griː</Symbol>
+            <SymbolUs>ə'ɡri</SymbolUs>
+            <Meaning>同意</Meaning>vi. vi. 同意，意见一致；约定，商定
+vt. 同意，赞成；承认；约定，商定<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>agree with sb</Name>
+            <Meaning>同意某人</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>vocabulary</Name>
+            <SplittedText>vo cabu lary</SplittedText>
+            <Symbol>və(ʊ)'kæbjʊlərɪ</Symbol>
+            <SymbolUs>və'kæbjəlɛri</SymbolUs>
+            <Meaning>词汇表</Meaning>n. 词汇；词表；词汇量<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>ask for</Name>
+            <Meaning>请求</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+        </Words>
+      </UIModule>
+      <UIModule>
+        <Name>Module 2</Name>
+        <Words>
+          <UIWord>
+            <Name>hill</Name>
+            <SplittedText>hill</SplittedText>
+            <Symbol>hɪl</Symbol>
+            <SymbolUs>hɪl</SymbolUs>
+            <Meaning>小山</Meaning>n. 小山；丘陵；斜坡；山冈
+n. (Hill)人名；(法、西)伊尔；(德、英、匈、捷、罗、芬、瑞典)希尔<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>population</Name>
+            <SplittedText>population</SplittedText>
+            <Symbol>pɒpjʊ'leɪʃ(ə)n</Symbol>
+            <SymbolUs>,pɑpju'leʃən</SymbolUs>
+            <Meaning>人口</Meaning>n. 人口；[生物] 种群，[生物] 群体；全体居民<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>wide</Name>
+            <SplittedText>wide</SplittedText>
+            <Symbol>waɪd</Symbol>
+            <SymbolUs>waɪd</SymbolUs>
+            <Meaning>宽</Meaning>n. 大千世界
+adj. 广泛的；宽的，广阔的；张大的；远离目标的
+adv. 广泛地；广阔地；充分地
+n. (Wide)人名；(瑞典、芬)维德<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>million</Name>
+            <SplittedText>million</SplittedText>
+            <Symbol>'mɪljən</Symbol>
+            <SymbolUs>'mɪljən</SymbolUs>
+            <Meaning>几百万</Meaning>num. 百万
+n. 百万；无数
+adj. 百万的；无数的
+n. (Million)人名；(法、罗、埃塞)米利翁<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>pretty</Name>
+            <SplittedText>pretty</SplittedText>
+            <Symbol>'prɪtɪ</Symbol>
+            <SymbolUs>'prɪti</SymbolUs>
+            <Meaning>相当的</Meaning>n. 漂亮的人
+adj. 漂亮的；可爱的；优美的
+adv. 相当地；颇
+n. (Pretty)人名；(英)普雷蒂<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>pretty good</Name>
+            <Meaning>相当好</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>than</Name>
+            <SplittedText>than</SplittedText>
+            <Symbol>ðæn; ð(ə)n</Symbol>
+            <SymbolUs>ðæn</SymbolUs>
+            <Meaning>比</Meaning>conj. 比（用于形容词、副词的比较级之后）；除…外（用于other等之后）；与其…（用于 rather等之后）；一…就（用于 no sooner等之后）
+prep. 比；超过
+n. (Than)人名；(老、柬、德)坦；(缅)丹<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>get</Name>
+            <SplittedText>get</SplittedText>
+            <Symbol>get</Symbol>
+            <SymbolUs>ɡɛt</SymbolUs>
+            <Meaning>变成</Meaning>n. 生殖；幼兽
+vi. 成为；变得；到达
+vt. 使得；获得；受到；变成<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>north</Name>
+            <SplittedText>north</SplittedText>
+            <Symbol>nɔːθ</Symbol>
+            <SymbolUs>nɔrθ</SymbolUs>
+            <Meaning>北</Meaning>n. 北，北方
+adj. 北方的；朝北的
+adv. 在北方，向北方<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>south</Name>
+            <SplittedText>south</SplittedText>
+            <Symbol>saʊθ</Symbol>
+            <SymbolUs>saʊθ</SymbolUs>
+            <Meaning>南</Meaning>n. 南方，南边；南部
+adj. 南的，南方的
+adv. 在南方，向南方
+n. (South)人名；(老)苏；(英)索思<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>west</Name>
+            <SplittedText>west</SplittedText>
+            <Symbol>west</Symbol>
+            <SymbolUs>wɛst</SymbolUs>
+            <Meaning>西</Meaning>n. 西；西方；西部
+adj. 西方的；朝西的
+adv. 在西方；向西方；自西方
+n. (West)人名；(英、德、芬、瑞典)韦斯特<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>east</Name>
+            <SplittedText>east</SplittedText>
+            <Symbol>iːst</Symbol>
+            <SymbolUs>ist</SymbolUs>
+            <Meaning>东</Meaning>n. 东方；东风；东方国家
+adj. 东方的；向东的；从东方来的
+adv. 向东方，在东方
+n. (East)人名；(英)伊斯特<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>home town</Name>
+            <Meaning>家乡</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>especially</Name>
+            <SplittedText>especially</SplittedText>
+            <Symbol>ɪ'speʃ(ə)lɪ; e-</Symbol>
+            <SymbolUs>ɪ'spɛʃəli</SymbolUs>
+            <Meaning>尤其</Meaning>adv. 特别；尤其；格外<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>be famous for</Name>
+            <Meaning>因...而闻名</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>university</Name>
+            <SplittedText>university</SplittedText>
+            <Symbol>juːnɪ'vɜːsɪtɪ</Symbol>
+            <SymbolUs>,junɪ'vɝsəti</SymbolUs>
+            <Meaning>大学</Meaning>n. 大学；综合性大学；大学校舍<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>island</Name>
+            <SplittedText>island</SplittedText>
+            <Symbol>'aɪlənd</Symbol>
+            <SymbolUs>'aɪlənd</SymbolUs>
+            <Meaning>岛</Meaning>n. 岛；岛屿；安全岛；岛状物
+adj. 岛的
+vt. 孤立；使成岛状
+n. (Island)人名；(英)艾兰<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>area</Name>
+            <SplittedText>area</SplittedText>
+            <Symbol>'eərɪə</Symbol>
+            <SymbolUs>'ɛrɪə</SymbolUs>
+            <Meaning>区域</Meaning>n. 区域，地区；面积；范围
+n. (Area)人名；(西)阿雷亚<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>low</Name>
+            <SplittedText>low</SplittedText>
+            <Symbol>ləʊ</Symbol>
+            <SymbolUs>ləu</SymbolUs>
+            <Meaning>低</Meaning>n. 低；低价；低点；牛叫声
+adj. 低的，浅的；卑贱的；粗俗的；消沉的
+adv. 低声地；谦卑地，低下地
+vi. 牛叫
+n. (Low)人名；(英、德)洛<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>countryside</Name>
+            <SplittedText>countryside</SplittedText>
+            <Symbol>'kʌntrɪsaɪd</Symbol>
+            <SymbolUs>'kʌntrɪsaɪd</SymbolUs>
+            <Meaning>乡下、农村</Meaning>n. 农村，乡下；乡下的全体居民<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>umbrella</Name>
+            <SplittedText>umbrella</SplittedText>
+            <Symbol>ʌm'brelə</Symbol>
+            <SymbolUs>ʌm'brɛlə</SymbolUs>
+            <Meaning>伞</Meaning>n. 雨伞；保护伞；庇护；伞形结构<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+        </Words>
+      </UIModule>
+      <UIModule>
+        <Name>Module 3</Name>
+        <Words>
+          <UIWord>
+            <Name>exciting</Name>
+            <SplittedText>exciting</SplittedText>
+            <Symbol>ɪk'saɪtɪŋ; ek-</Symbol>
+            <SymbolUs>ɪk'saɪtɪŋ</SymbolUs>
+            <Meaning>令人兴奋的、激动的</Meaning>adj. 令人兴奋的；使人激动的
+v. 激动；刺激（excite的ing形式）；唤起<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>volleyball</Name>
+            <SplittedText>volleyball</SplittedText>
+            <Symbol>'vɒlɪbɔːl</Symbol>
+            <SymbolUs>'vɑlɪbɔl</SymbolUs>
+            <Meaning>排球</Meaning>n. 排球<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>boring</Name>
+            <SplittedText>boring</SplittedText>
+            <Symbol>'bɔːrɪŋ</Symbol>
+            <SymbolUs>'bɔrɪŋ</SymbolUs>
+            <Meaning>无聊的</Meaning>n. 钻孔
+adj. 无聊的；令人厌烦的
+v. 钻孔；使厌烦；挖空（bore的ing形式）
+n. (Boring)人名；(英、瑞典)博林<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>exciting</Name>
+            <SplittedText>exciting</SplittedText>
+            <Symbol>ɪk'saɪtɪŋ; ek-</Symbol>
+            <SymbolUs>ɪk'saɪtɪŋ</SymbolUs>
+            <Meaning>令人兴奋的</Meaning>adj. 令人兴奋的；使人激动的
+v. 激动；刺激（excite的ing形式）；唤起<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>score</Name>
+            <SplittedText>score</SplittedText>
+            <Symbol>skɔː</Symbol>
+            <SymbolUs>skɔ</SymbolUs>
+            <Meaning>得分\分数</Meaning>n. 分数；二十；配乐；刻痕
+vt. 获得；评价；划线，刻划；把…记下
+vi. 得分；记分；刻痕
+n. (Score)人名；(英)斯科尔<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>already</Name>
+            <SplittedText>already</SplittedText>
+            <Symbol>ɔːl'redɪ</Symbol>
+            <SymbolUs>ɔl'rɛdi</SymbolUs>
+            <Meaning>已经</Meaning>adv. 已经，早已；先前<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>matter</Name>
+            <SplittedText>matter</SplittedText>
+            <Symbol>'mætə</Symbol>
+            <SymbolUs>'mætɚ</SymbolUs>
+            <Meaning>事</Meaning>n. 物质；事件
+vi. 有关系；要紧
+n. (Matter)人名；(英、法)马特；(西)马特尔<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>what's the matter</Name>
+            <Meaning>怎么了？</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>hurt</Name>
+            <SplittedText>hurt</SplittedText>
+            <Symbol>hɜːt</Symbol>
+            <SymbolUs>hɝ​t</SymbolUs>
+            <Meaning>伤害\痛</Meaning>n. 痛苦；危害；痛苦的原因
+vt. 使受伤；损害；使疼痛；使痛心
+adj. 受伤的；痛苦的；受损的
+vi. 感到疼痛；有坏处；带来痛苦
+n. (Hurt)人名；(德、匈、捷)胡特；(英)赫特<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>enjoyable</Name>
+            <SplittedText>enjoyable</SplittedText>
+            <Symbol>ɪn'dʒɒɪəb(ə)l; en-</Symbol>
+            <SymbolUs>ɪn'dʒɔɪəbl</SymbolUs>
+            <Meaning>令人愉快的</Meaning>adj. 快乐的；有乐趣的；令人愉快的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>Olympics</Name>
+            <SplittedText>Olympics</SplittedText>
+            <Symbol>əu'limpiks</Symbol>
+            <SymbolUs>əu'limpiks</SymbolUs>
+            <Meaning>奥运会</Meaning>n. 奥林匹克运动会<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>stadium</Name>
+            <SplittedText>stadium</SplittedText>
+            <Symbol>'steɪdɪəm</Symbol>
+            <SymbolUs>'stedɪəm</SymbolUs>
+            <Meaning>体育场</Meaning>n. 体育场；露天大型运动场<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>miss</Name>
+            <SplittedText>miss</SplittedText>
+            <Symbol>mɪs</Symbol>
+            <SymbolUs>mɪs</SymbolUs>
+            <Meaning>未击中</Meaning>vt. 漏掉；错过；想念<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>mind</Name>
+            <SplittedText>mind</SplittedText>
+            <Symbol>maɪnd</Symbol>
+            <SymbolUs>maɪnd</SymbolUs>
+            <Meaning>介意</Meaning>n. 理智，精神；意见；智力；记忆力
+vt. 介意；专心于；照料
+vi. 介意；注意<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>plenty</Name>
+            <SplittedText>plenty</SplittedText>
+            <Symbol>'plentɪ</Symbol>
+            <SymbolUs>'plɛnti</SymbolUs>
+            <Meaning>很多</Meaning>n. 丰富，大量；充足
+adj. 足够的，很多的
+adv. 足够
+n. (Plenty)人名；(英)普伦蒂<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>plenty of</Name>
+            <Meaning>大量</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>beat</Name>
+            <SplittedText>beat</SplittedText>
+            <Symbol>biːt</Symbol>
+            <SymbolUs>bit</SymbolUs>
+            <Meaning>击败</Meaning>n. 拍子；敲击；有规律的一连串敲打
+adj. 筋疲力尽的；疲惫不堪的
+vt. 打；打败
+vi. 打；打败；拍打；有节奏地舒张与收缩
+n. (Beat)人名；(德)贝亚特<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>careless</Name>
+            <SplittedText>careless</SplittedText>
+            <Symbol>'keələs</Symbol>
+            <SymbolUs>'kɛrləs</SymbolUs>
+            <Meaning>粗心的</Meaning>adj. 粗心的；无忧无虑的；淡漠的
+n. (Careless)人名；(英)凯尔利斯<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>cheer</Name>
+            <SplittedText>cheer</SplittedText>
+            <Symbol>tʃɪə</Symbol>
+            <SymbolUs>tʃɪr</SymbolUs>
+            <Meaning>欢呼</Meaning>n. 欢呼；愉快；心情；令人愉快的事
+vt. 欢呼；使高兴；为…加油
+vi. 欢呼；感到高兴<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>coach</Name>
+            <SplittedText>coach</SplittedText>
+            <Symbol>kəʊtʃ</Symbol>
+            <SymbolUs>kotʃ</SymbolUs>
+            <Meaning>教练</Meaning>n. 教练；旅客车厢；长途公车；四轮大马车
+vt. 训练；指导
+vi. 作指导；接受辅导；坐马车旅行
+n.  蔻驰（皮革品牌）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>fan club</Name>
+            <Meaning>球迷俱尔部</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>against</Name>
+            <SplittedText>against</SplittedText>
+            <Symbol>ə'genst; ə'geɪnst</Symbol>
+            <SymbolUs>ə'ɡɛnst</SymbolUs>
+            <Meaning>对(阵)</Meaning>prep. 反对，违反；靠；倚；防备
+adj. 不利的；对立的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>train</Name>
+            <SplittedText>train</SplittedText>
+            <Symbol>treɪn</Symbol>
+            <SymbolUs>tren</SymbolUs>
+            <Meaning>训练</Meaning>n. 火车；行列；长队；裙裾
+v. 培养；训练；瞄准
+n. (Train)人名；(英)特雷恩；(法)特兰；(意)特拉因<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>practice</Name>
+            <SplittedText>practice</SplittedText>
+            <Symbol>'præktɪs</Symbol>
+            <SymbolUs>'præktɪs</SymbolUs>
+            <Meaning>练习</Meaning>n. 实践；练习；惯例
+vt. 练习；实习；实行
+vi. 练习；实习；实行<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>warm</Name>
+            <SplittedText>warm</SplittedText>
+            <Symbol>wɔːm</Symbol>
+            <SymbolUs>wɔrm</SymbolUs>
+            <Meaning>使暖和</Meaning>n. 取暖；加热
+adj. 温暖的；热情的
+vt. 使…兴奋；使…温暖；使…感兴趣
+vi. 同情；激动；变温暖
+n. (Warm)人名；(英)沃姆；(德)瓦姆<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>warm up</Name>
+            <Meaning>热身</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>usual</Name>
+            <SplittedText>usual</SplittedText>
+            <Symbol>'juːʒʊəl</Symbol>
+            <SymbolUs>'juʒuəl</SymbolUs>
+            <Meaning>通常</Meaning>adj. 通常的，惯例的；平常的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>better</Name>
+            <SplittedText>better</SplittedText>
+            <Symbol>'betə</Symbol>
+            <SymbolUs>'bɛtɚ</SymbolUs>
+            <Meaning>更好的</Meaning>n. 长辈；较好者；打赌的人（等于bettor）
+adj. 较好的
+vt. 改善；胜过
+adv. 更好的；更多的；较大程度地
+vi. 变得较好
+n. (Better)人名；(西、瑞典、德)贝特尔<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>pleased</Name>
+            <SplittedText>pleased</SplittedText>
+            <Symbol>pliːzd</Symbol>
+            <SymbolUs>plizd</SymbolUs>
+            <Meaning>开心的</Meaning>adj. 高兴的；喜欢的；乐意做某事
+v. 满意；愿意（please的过去分词形式）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>pass</Name>
+            <SplittedText>pass</SplittedText>
+            <Symbol>pɑːs</Symbol>
+            <SymbolUs>pæs</SymbolUs>
+            <Meaning>通过</Meaning>n. 及格；经过；护照；途径；传球
+vt. 通过；经过；传递
+vi. 经过；传递；变化；终止
+n. (Pass)人名；(英、法、德、俄)帕斯<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>pity</Name>
+            <SplittedText>pity</SplittedText>
+            <Symbol>'pɪtɪ</Symbol>
+            <SymbolUs>'pɪti</SymbolUs>
+            <Meaning>遗憾</Meaning>n. 怜悯，同情；遗憾
+vt. 对……表示怜悯；对……感到同情<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>chance</Name>
+            <SplittedText>chance</SplittedText>
+            <Symbol>tʃɑːns</Symbol>
+            <SymbolUs>tʃæns</SymbolUs>
+            <Meaning>机会</Meaning>n. 机会，际遇；运气，侥幸；可能性
+vt. 偶然发生；冒……的险
+vi. 碰巧；偶然被发现
+n. (Chance)人名；(英)钱斯<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>loudly</Name>
+            <SplittedText>loudly</SplittedText>
+            <Symbol>'laʊdlɪ</Symbol>
+            <SymbolUs>'laʊdli</SymbolUs>
+            <Meaning>大声</Meaning>adv. 大声地，响亮地<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>confident</Name>
+            <SplittedText>confident</SplittedText>
+            <Symbol>'kɒnfɪd(ə)nt</Symbol>
+            <SymbolUs>'kɑnfɪdənt</SymbolUs>
+            <Meaning>自信</Meaning>adj. 自信的；确信的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+        </Words>
+      </UIModule>
+      <UIModule>
+        <Name>Module 4</Name>
+        <Words>
+          <UIWord>
+            <Name>road</Name>
+            <SplittedText>road</SplittedText>
+            <Symbol>rəʊd</Symbol>
+            <SymbolUs>rod</SymbolUs>
+            <Meaning>公路</Meaning>n. 公路，马路；道路；手段
+adj. （美）巡回的
+vt. （狗）沿臭迹追逐（猎物）
+n. (Road)人名；(英)罗德<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>accident</Name>
+            <SplittedText>accident</SplittedText>
+            <Symbol>'æksɪdənt</Symbol>
+            <SymbolUs>'æksədənt</SymbolUs>
+            <Meaning>事故</Meaning>n. 事故；意外；[法] 意外事件；机遇<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>except</Name>
+            <SplittedText>except</SplittedText>
+            <Symbol>ɪk'sept; ek-</Symbol>
+            <SymbolUs>ɪk'sɛpt</SymbolUs>
+            <Meaning>除了</Meaning>conj. 除了；要不是
+prep. 除…之外
+vt. 不计；把…除外
+vi. 反对<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>choice</Name>
+            <SplittedText>choice</SplittedText>
+            <Symbol>tʃɒɪs</Symbol>
+            <SymbolUs>tʃɔɪs</SymbolUs>
+            <Meaning>选择</Meaning>n. 选择；选择权；精选品
+adj. 精选的；仔细推敲的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>classmate</Name>
+            <SplittedText>classmate</SplittedText>
+            <Symbol>'klɑːsmeɪt</Symbol>
+            <SymbolUs>'klæsmet</SymbolUs>
+            <Meaning>同班同学</Meaning>n. 同班同学<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>far</Name>
+            <SplittedText>far</SplittedText>
+            <Symbol>fɑː</Symbol>
+            <SymbolUs>fɑr</SymbolUs>
+            <Meaning>远</Meaning>n. 远方
+adj. 远的；久远的
+adv. 很；遥远地；久远地；到很远的距离；到很深的程度
+n. (Far)人名；(德、西、塞)法尔<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>far from</Name>
+            <Meaning>远离</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>close</Name>
+            <SplittedText>close</SplittedText>
+            <Symbol>kləʊs</Symbol>
+            <SymbolUs>kloz</SymbolUs>
+            <Meaning>近的</Meaning>n. 结束
+adj. 紧密的；亲密的；亲近的
+vt. 关；结束；使靠近
+vi. 关；结束；关闭
+adv. 紧密地
+n. (Close)人名；(西)克洛塞；(英、法)克洛斯<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>crowded</Name>
+            <SplittedText>crowded</SplittedText>
+            <Symbol>'kraʊdɪd</Symbol>
+            <SymbolUs>'kraʊdɪd</SymbolUs>
+            <Meaning>拥挤的</Meaning>adj. 拥挤的；塞满的
+v. 拥挤（crowd的过去分词）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>all the time</Name>
+            <Meaning>一直</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>journey</Name>
+            <SplittedText>journey</SplittedText>
+            <Symbol>'dʒɜːnɪ</Symbol>
+            <SymbolUs>'dʒɝni</SymbolUs>
+            <Meaning>旅程</Meaning>n. 旅行；行程
+vi. 旅行
+n. (Journey)人名；(英)朱尼，朱妮(女名)<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>book</Name>
+            <SplittedText>book</SplittedText>
+            <Symbol>bʊk</Symbol>
+            <SymbolUs>bʊk</SymbolUs>
+            <Meaning>预订</Meaning>n. 书籍；卷；帐簿；名册；工作簿
+vt. 预订；登记
+n. (Book)人名；(中)卜(广东话·威妥玛)；(朝)北；(英)布克；(瑞典)博克<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>park</Name>
+            <SplittedText>park</SplittedText>
+            <Symbol>pɑːk</Symbol>
+            <SymbolUs>pɑrk</SymbolUs>
+            <Meaning>停车、公园</Meaning>n. 公园；[交] 停车场
+vt. 停放；放置；寄存
+vi. 停放车辆
+n. (Park)人名；(英、芬、瑞典)帕克<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>outside</Name>
+            <SplittedText>outside</SplittedText>
+            <Symbol>aʊt'saɪd; 'aʊtsaɪd</Symbol>
+            <SymbolUs>,aʊt'saɪd</SymbolUs>
+            <Meaning>在...外面</Meaning>prep. 在…范围之外
+n. 外部；外观
+adj. 外面的，外部的；外来的
+adv. 在外面，向外面；在室外<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>however</Name>
+            <SplittedText>however</SplittedText>
+            <Symbol>haʊ'evə</Symbol>
+            <SymbolUs>haʊ'ɛvɚ</SymbolUs>
+            <Meaning>然而</Meaning>conj. 无论以何种方式; 不管怎样
+adv. 无论如何；不管怎样（接副词或形容词）；然而；可是<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>cost</Name>
+            <SplittedText>cost</SplittedText>
+            <Symbol>kɒst</Symbol>
+            <SymbolUs>kɔst</SymbolUs>
+            <Meaning>价钱、花费</Meaning>n. 费用，代价，成本；损失
+vt. 花费；使付出；使花许多钱
+vi. 花费
+n. (Cost)人名；(英、罗)科斯特<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+        </Words>
+      </UIModule>
+      <UIModule>
+        <Name>Module 5</Name>
+        <Words>
+          <UIWord>
+            <Name>actress</Name>
+            <SplittedText>actress</SplittedText>
+            <Symbol>'æktrɪs</Symbol>
+            <SymbolUs>'æktrɪs</SymbolUs>
+            <Meaning>女演员</Meaning>n. 女演员<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>teahouse</Name>
+            <SplittedText>tea house</SplittedText>
+            <Symbol>'tiːhaʊs</Symbol>
+            <SymbolUs>'ti:haus</SymbolUs>
+            <Meaning>茶馆</Meaning>n. 茶馆；茶室<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>offer</Name>
+            <SplittedText>off er</SplittedText>
+            <Symbol>'ɒfə</Symbol>
+            <SymbolUs>'ɔfɚ</SymbolUs>
+            <Meaning>提供</Meaning>n. 提议；出价；意图；录取通知书
+vt. 提供；出价；试图
+vi. 提议；出现；献祭；求婚<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>end</Name>
+            <SplittedText>end</SplittedText>
+            <Symbol>end</Symbol>
+            <SymbolUs>ɛnd</SymbolUs>
+            <Meaning>结束</Meaning>n. 结束；目标；尽头；末端；死亡
+vt. 结束，终止；终结
+vi. 结束，终止；终结
+n. (End)人名；(英、德)恩德<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>in the end</Name>
+            <Meaning>最后</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>no idea</Name>
+            <Meaning>不知道</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>act</Name>
+            <SplittedText>act</SplittedText>
+            <Symbol>ækt</Symbol>
+            <SymbolUs>ækt</SymbolUs>
+            <Meaning>一幕</Meaning>n. 行为，行动；法令，法案；（戏剧，歌剧的）一幕，段；装腔作势
+vt. 扮演；装作，举动像
+vi. 行动；扮演，充当；表现，举止；假装，演戏；起作用，见效<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>show</Name>
+            <SplittedText>show</SplittedText>
+            <Symbol>ʃəʊ</Symbol>
+            <SymbolUs>ʃo</SymbolUs>
+            <Meaning>展示,显示</Meaning>n. 显示；表演；炫耀
+vt. 显示；说明；演出；展出
+vi. 显示；说明；指示
+n. (Show)人名；(中)邵(普通话·威妥玛)；(英)肖<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>common</Name>
+            <SplittedText>common</SplittedText>
+            <Symbol>'kɒmən</Symbol>
+            <SymbolUs>'kɑmən</SymbolUs>
+            <Meaning>普通的</Meaning>n. 普通；平民；公有地
+adj. 共同的；普通的；一般的；通常的
+n. (Common)人名；(法)科蒙；(英)康芒<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>twentieth</Name>
+            <SplittedText>twentieth</SplittedText>
+            <Symbol>ˈtwentiəθ</Symbol>
+            <SymbolUs>ˈtwentiəθ</SymbolUs>
+            <Meaning>第二十</Meaning>n. 二十分之一
+num. 第二十
+adj. 第二十的；二十分之一的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>describe</Name>
+            <SplittedText>describe</SplittedText>
+            <Symbol>dɪ'skraɪb</Symbol>
+            <SymbolUs>dɪ'skraɪb</SymbolUs>
+            <Meaning>描述</Meaning>vt. 描述，形容；描绘<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>society</Name>
+            <SplittedText>society</SplittedText>
+            <Symbol>sə'saɪətɪ</Symbol>
+            <SymbolUs>sə'saɪəti</SymbolUs>
+            <Meaning>社会</Meaning>n. 社会；交往；社团；社交界<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>head teacher</Name>
+            <Meaning>校长</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>college</Name>
+            <SplittedText>college</SplittedText>
+            <Symbol>'kɒlɪdʒ</Symbol>
+            <SymbolUs>'kɑlɪdʒ</SymbolUs>
+            <Meaning>大学</Meaning>n. 大学；学院；学会<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>novel</Name>
+            <SplittedText>novel</SplittedText>
+            <Symbol>'nɒv(ə)l</Symbol>
+            <SymbolUs>ˈnɑːvl</SymbolUs>
+            <Meaning>小说</Meaning>n. 小说
+adj. 新奇的；异常的
+n. (Novel)人名；(法、西、英)诺韦尔<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>name</Name>
+            <SplittedText>name</SplittedText>
+            <Symbol>neɪm</Symbol>
+            <SymbolUs>nem</SymbolUs>
+            <Meaning>的名字</Meaning>n. 名称，名字；姓名；名誉
+adj. 姓名的；据以取名的
+vt. 命名，任命；指定；称呼；提名；叫出
+n. (Name)人名；(日)滑(姓)；(英)内姆<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>if</Name>
+            <SplittedText>if</SplittedText>
+            <Symbol>ɪf</Symbol>
+            <SymbolUs>ɪf</SymbolUs>
+            <Meaning>如果</Meaning>conj. （表条件）如果；即使；是否；（表假设）假如
+n. 条件；设想<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>magic</Name>
+            <SplittedText>magic</SplittedText>
+            <Symbol>'mædʒɪk</Symbol>
+            <SymbolUs>'mædʒɪk</SymbolUs>
+            <Meaning>魔术</Meaning>n. 巫术；魔法；戏法
+adj. 不可思议的；有魔力的；魔术的
+n. (Magic)人名；(英)马吉克<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>customer</Name>
+            <SplittedText>customer</SplittedText>
+            <Symbol>'kʌstəmə</Symbol>
+            <SymbolUs>'kʌstəmɚ</SymbolUs>
+            <Meaning>客户</Meaning>n. 顾客；家伙<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>century</Name>
+            <SplittedText>century</SplittedText>
+            <Symbol>ˈsentʃərɪ</Symbol>
+            <SymbolUs>'sɛntʃəri</SymbolUs>
+            <Meaning>世纪</Meaning>n. 世纪，百年；（板球）一百分<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>born</Name>
+            <SplittedText>born</SplittedText>
+            <Symbol>bɔːn</Symbol>
+            <SymbolUs>bɔrn</SymbolUs>
+            <Meaning>出生</Meaning>v. 出世（bear的过去分词）
+adj. 天生的
+n. (Born)人名；(柬)邦；(英、西、俄、捷、德、瑞典、匈)博恩<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>sent</Name>
+            <SplittedText>sent</SplittedText>
+            <Symbol>sent</Symbol>
+            <SymbolUs>sɛnt</SymbolUs>
+            <Meaning>发送</Meaning>v. 送，寄出（send的过去分词）
+n. (Sent)人名；(德)森特<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>finish</Name>
+            <SplittedText>finish</SplittedText>
+            <Symbol>'fɪnɪʃ</Symbol>
+            <SymbolUs>'fɪnɪʃ</SymbolUs>
+            <Meaning>完成</Meaning>n. 结束；完美；回味（葡萄酒）
+vt. 完成；结束；用完
+vi. 结束，终止；终结<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>became</Name>
+            <SplittedText>became</SplittedText>
+            <Symbol>bɪ'keɪm</Symbol>
+            <SymbolUs>bɪ'kem</SymbolUs>
+            <Meaning>成为</Meaning>v. 变得（become的过去式）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>primary</Name>
+            <SplittedText>primary</SplittedText>
+            <Symbol>'praɪm(ə)rɪ</Symbol>
+            <SymbolUs>'praɪmɛri</SymbolUs>
+            <Meaning>主</Meaning>n. 原色；最主要者
+adj. 主要的；初级的；基本的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>returned</Name>
+            <SplittedText>returned</SplittedText>
+            <Symbol>rɪ'tɜːnd</Symbol>
+            <SymbolUs>rɪ'tɝnd</SymbolUs>
+            <Meaning>返回</Meaning>adj. 回国的；归来的；被送回的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>short</Name>
+            <SplittedText>short</SplittedText>
+            <Symbol>ʃɔːt</Symbol>
+            <SymbolUs>ʃɔrt</SymbolUs>
+            <Meaning>短</Meaning>n. 短；缺乏；短路；短裤
+adj. 短的；不足的；矮的，低的
+adv. 不足；突然；唐突地
+n. (Short)人名；(英)肖特<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>artist</Name>
+            <SplittedText>artist</SplittedText>
+            <Symbol>'ɑːtɪst</Symbol>
+            <SymbolUs>'ɑrtɪst</SymbolUs>
+            <Meaning>艺术家</Meaning>n. 艺术家；美术家（尤指画家）；大师<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>greatest</Name>
+            <SplittedText>greatest</SplittedText>
+            <Symbol>'ɡreɪtɪst</Symbol>
+            <SymbolUs>'ɡretɪst</SymbolUs>
+            <Meaning>最大的</Meaning>adj. 最伟大的（great的最高级）；最好的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>drink</Name>
+            <SplittedText>drink</SplittedText>
+            <Symbol>drɪŋk</Symbol>
+            <SymbolUs>drɪŋk</SymbolUs>
+            <Meaning>喝</Meaning>n. 酒，饮料；喝酒
+vt. 喝，饮；吸收；举杯庆贺
+vi. 喝酒；饮水；干杯<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>opera</Name>
+            <SplittedText>opera</SplittedText>
+            <Symbol>'ɒp(ə)rə</Symbol>
+            <SymbolUs>'ɑprə</SymbolUs>
+            <Meaning>歌剧</Meaning>n. 歌剧；歌剧院；歌剧团
+n. (Opera)人名；(意)奥佩拉<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>difficult</Name>
+            <SplittedText>difficult</SplittedText>
+            <Symbol>'dɪfɪk(ə)lt</Symbol>
+            <SymbolUs>'dɪfɪkəlt</SymbolUs>
+            <Meaning>困难</Meaning>adj. 困难的；不随和的；执拗的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>especially</Name>
+            <SplittedText>especially</SplittedText>
+            <Symbol>ɪ'speʃ(ə)lɪ; e-</Symbol>
+            <SymbolUs>ɪ'spɛʃəli</SymbolUs>
+            <Meaning>特别是</Meaning>adv. 特别；尤其；格外<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+        </Words>
+      </UIModule>
+      <UIModule>
+        <Name>Module 6</Name>
+        <Words>
+          <UIWord>
+            <Name>snake</Name>
+            <SplittedText>snake</SplittedText>
+            <Symbol>sneɪk</Symbol>
+            <SymbolUs>snek</SymbolUs>
+            <Meaning>蛇</Meaning>n. 蛇；阴险的人
+vt. 拉（木材等）；迂回前进
+vi. 迂回前进<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>neck</Name>
+            <SplittedText>neck</SplittedText>
+            <Symbol>nek</Symbol>
+            <SymbolUs>nɛk</SymbolUs>
+            <Meaning>脖子</Meaning>n. 脖子；衣领；海峡
+vt. 使变细；与…搂著脖子亲吻
+vi. 搂著脖子亲吻；变狭窄
+n. (Neck)人名；(德、意、英)内克<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>thin</Name>
+            <SplittedText>thin</SplittedText>
+            <Symbol>θɪn</Symbol>
+            <SymbolUs>θɪn</SymbolUs>
+            <Meaning>薄</Meaning>n. 细小部分
+adj. 薄的；瘦的；稀薄的；微弱的
+vt. 使瘦；使淡；使稀疏
+vi. 变薄；变瘦；变淡
+adv. 稀疏地；微弱地
+n. (Thin)人名；(越)辰；(柬)廷<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>danger</Name>
+            <SplittedText>dan ger</SplittedText>
+            <Symbol>'deɪn(d)ʒə</Symbol>
+            <SymbolUs>'dendʒɚ</SymbolUs>
+            <Meaning>危险</Meaning>n. 危险；危险物，威胁
+n. (Danger)人名；(法)当热<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>in danger</Name>
+            <Meaning>处于危险中</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>at last</Name>
+            <Meaning>终于，最后</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>interested</Name>
+            <SplittedText>interested</SplittedText>
+            <Symbol>'ɪnt(ə)rɪstɪd</Symbol>
+            <SymbolUs>'ɪntrəstɪd</SymbolUs>
+            <Meaning>感兴趣</Meaning>v. 使…感兴趣（interest的过去分词）
+adj. 感兴趣的；有权益的；有成见的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>allow</Name>
+            <SplittedText>allow</SplittedText>
+            <Symbol>ə'laʊ</Symbol>
+            <SymbolUs>ə'laʊ</SymbolUs>
+            <Meaning>允许</Meaning>vi. 容许；考虑
+vt. 允许；给予；认可<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>think of</Name>
+            <Meaning>想到，想出</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>protect</Name>
+            <SplittedText>pro tect</SplittedText>
+            <Symbol>prə'tekt</Symbol>
+            <SymbolUs>prə'tɛkt</SymbolUs>
+            <Meaning>保护</Meaning>vt. 保护，防卫；警戒<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>wild</Name>
+            <SplittedText>wild</SplittedText>
+            <Symbol>waɪld</Symbol>
+            <SymbolUs>waɪld</SymbolUs>
+            <Meaning>野生的</Meaning>n. 荒野
+adj. 野生的；野蛮的；狂热的；荒凉的
+adv. 疯狂地；胡乱地
+n. (Wild)人名；(英)怀尔德；(法、德、葡、捷、匈)维尔德<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>grow</Name>
+            <SplittedText>grow</SplittedText>
+            <Symbol>grəʊ</Symbol>
+            <SymbolUs>ɡro</SymbolUs>
+            <Meaning>生长，变得</Meaning>vi. 发展；生长；渐渐变得…
+vt. 使生长；种植；扩展
+n. (Grow)人名；(英)格罗<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>take away</Name>
+            <Meaning>夺去，拿走</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>enough</Name>
+            <SplittedText>enough</SplittedText>
+            <Symbol>ɪ'nʌf</Symbol>
+            <SymbolUs>ɪ'nʌf</SymbolUs>
+            <Meaning>足够的</Meaning>n. 很多；充足
+adj. 充足的
+adv. 足够地，充足地
+int. 够了！<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>peace</Name>
+            <SplittedText>peace</SplittedText>
+            <Symbol>piːs</Symbol>
+            <SymbolUs>pis</SymbolUs>
+            <Meaning>和平</Meaning>n. 和平；平静；和睦；秩序
+n. (Peace)人名；(英)皮斯<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>in peace</Name>
+            <Meaning>和平的，平静的</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>notice</Name>
+            <SplittedText>notice</SplittedText>
+            <Symbol>'nəʊtɪs</Symbol>
+            <SymbolUs>'notɪs</SymbolUs>
+            <Meaning>布告</Meaning>n. 通知，布告；注意；公告
+vt. 通知；注意到；留心
+vi. 引起注意<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>look after</Name>
+            <Meaning>照顾</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>raise</Name>
+            <SplittedText>raise</SplittedText>
+            <Symbol>reɪz</Symbol>
+            <SymbolUs>rez</SymbolUs>
+            <Meaning>筹集,养育</Meaning>n. 高地；上升；加薪
+vt. 提高；筹集；养育；升起
+vi. 上升
+n. (Raise)人名；(英)雷兹<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>research</Name>
+            <SplittedText>research</SplittedText>
+            <Symbol>rɪ'sɜːtʃ; 'riːsɜːtʃ</Symbol>
+            <SymbolUs>'risɝtʃ</SymbolUs>
+            <Meaning>研究</Meaning>n. 研究；调查
+vt. 研究；调查
+vi. 研究；调查
+[ 过去式 researched 过去分词 researched 现在分词 researching ]<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>baby</Name>
+            <SplittedText>baby</SplittedText>
+            <Symbol>'beɪbɪ</Symbol>
+            <SymbolUs>bebɪ</SymbolUs>
+            <Meaning>婴儿</Meaning>n. 婴儿，婴孩；孩子气的人
+adj. 婴儿的；幼小的
+vt. 纵容，娇纵；把……当婴儿般对待
+n. (Baby)人名；(法、葡)巴比；(英)巴比，芭比(女名)；(俄)巴贝<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>situation</Name>
+            <SplittedText>situation</SplittedText>
+            <Symbol>sɪtjʊ'eɪʃ(ə)n</Symbol>
+            <SymbolUs>,sɪtʃu'eʃən</SymbolUs>
+            <Meaning>情况,形势</Meaning>n. 情况；形势；处境；位置<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>scientist</Name>
+            <SplittedText>scientist</SplittedText>
+            <Symbol>'saɪəntɪst</Symbol>
+            <SymbolUs>'saɪəntɪst</SymbolUs>
+            <Meaning>科学家</Meaning>n. 科学家<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>produce</Name>
+            <SplittedText>produce</SplittedText>
+            <Symbol>prə'djuːs</Symbol>
+            <SymbolUs>prə'dus</SymbolUs>
+            <Meaning>生育，繁殖</Meaning>n. 农产品，产品
+vt. 生产；引起；创作；生育，繁殖
+vi. 生产，创作<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>southwest</Name>
+            <SplittedText>southwest</SplittedText>
+            <Symbol>,saʊθ'west</Symbol>
+            <SymbolUs>,saʊθ'wɛst</SymbolUs>
+            <Meaning>西南</Meaning>n. 西南方
+adj. 西南的
+adv. 往西南；来自西南<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>order</Name>
+            <SplittedText>order</SplittedText>
+            <Symbol>'ɔːdə</Symbol>
+            <SymbolUs>'ɔrdɚ</SymbolUs>
+            <Meaning>订单,命令</Meaning>n. 命令；顺序；规则；[贸易] 定单
+vt. 命令；整理；定购
+vi. 命令；定货<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>in order to</Name>
+            <Meaning>为了</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>government</Name>
+            <SplittedText>government</SplittedText>
+            <Symbol>'gʌv(ə)n,m(ə)nt; 'gʌvəm(ə)nt</Symbol>
+            <SymbolUs>'ɡʌvɚnmənt</SymbolUs>
+            <Meaning>政府</Meaning>n. 政府；政体；管辖<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>set</Name>
+            <SplittedText>set</SplittedText>
+            <Symbol>set</Symbol>
+            <SymbolUs>sɛt</SymbolUs>
+            <Meaning>设置，设定</Meaning>n. [数] 集合；一套；布景；[机] 装置
+adj. 固定的；规定的；固执的
+vi. (日,月)落沉；凝固；结果
+vt. 树立；点燃；点缀；
+n. (Set)人名；(瑞典)塞特；(俄)谢特<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>set up</Name>
+            <Meaning>开办，设立，创办</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>nature</Name>
+            <SplittedText>nature</SplittedText>
+            <Symbol>'neɪtʃə</Symbol>
+            <SymbolUs>'netʃɚ</SymbolUs>
+            <Meaning>自然</Meaning>n. 自然；性质；本性；种类
+n. (Nature)人名；(法)纳蒂尔<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>nature park</Name>
+            <Meaning>自然公园</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>develop</Name>
+            <SplittedText>develop</SplittedText>
+            <Symbol>dɪ'veləp</Symbol>
+            <SymbolUs>dɪ'vɛləp</SymbolUs>
+            <Meaning>研制</Meaning>vi. 发育；生长；进化；显露
+vt. 开发；进步；使成长；使显影<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>feed</Name>
+            <SplittedText>feed</SplittedText>
+            <Symbol>fiːd</Symbol>
+            <SymbolUs>fid</SymbolUs>
+            <Meaning>喂养</Meaning>n. 饲料；饲养；（动物或婴儿的）一餐
+vt. 喂养；供给；放牧；抚养（家庭等）；靠…为生
+vi. 吃东西；流入<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>symbol</Name>
+            <SplittedText>symbol</SplittedText>
+            <Symbol>'sɪmb(ə)l</Symbol>
+            <SymbolUs>'sɪmbl</SymbolUs>
+            <Meaning>象征,标志</Meaning>n. 象征；符号；标志<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>people</Name>
+            <SplittedText>people</SplittedText>
+            <Symbol>'piːp(ə)l</Symbol>
+            <SymbolUs>'pipl</SymbolUs>
+            <Meaning>人</Meaning>n. 人；人类；民族；公民
+vt. 居住于；使住满人<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>animals</Name>
+            <SplittedText>animals</SplittedText>
+            <Symbol>'æniməlz</Symbol>
+            <SymbolUs>'æniməlz</SymbolUs>
+            <Meaning>动物</Meaning>n. [动] 动物，动物世界；牲畜（animal的复数形式）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>safe</Name>
+            <SplittedText>safe</SplittedText>
+            <Symbol>seɪf</Symbol>
+            <SymbolUs>sef</SymbolUs>
+            <Meaning>安全</Meaning>n. 保险箱；冷藏室；纱橱
+adj. 安全的；可靠的；平安的
+n. (Safe)人名；(几)萨菲<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>village</Name>
+            <SplittedText>village</SplittedText>
+            <Symbol>'vɪlɪdʒ</Symbol>
+            <SymbolUs>'vɪlɪdʒ</SymbolUs>
+            <Meaning>村</Meaning>n. 村庄；村民；（动物的）群落<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>farm</Name>
+            <SplittedText>farm</SplittedText>
+            <Symbol>fɑːm</Symbol>
+            <SymbolUs>fɑrm</SymbolUs>
+            <Meaning>农场</Meaning>n. 农场；农家；畜牧场
+vt. 养殖；耕种；佃出（土地）
+vi. 种田，务农；经营农场<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>land</Name>
+            <SplittedText>land</SplittedText>
+            <Symbol>lænd</Symbol>
+            <SymbolUs>lænd</SymbolUs>
+            <Meaning>土地</Meaning>n. 国土；陆地；地面
+vt. 使…登陆；使…陷于；将…卸下
+vi. 登陆；到达
+n. (Land)人名；(英、德、葡、瑞典)兰德<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>forest</Name>
+            <SplittedText>forest</SplittedText>
+            <Symbol>'fɒrɪst</Symbol>
+            <SymbolUs>'fɔrɪst</SymbolUs>
+            <Meaning>森林</Meaning>n. 森林
+vt. 植树于，使成为森林
+n. (Forest)人名；(法)福雷；(英、西)福雷斯特<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>save</Name>
+            <SplittedText>save</SplittedText>
+            <Symbol>seɪv</Symbol>
+            <SymbolUs>sev</SymbolUs>
+            <Meaning>挽救</Meaning>prep. 除...之外
+n. 救援
+vi. 节省；挽救
+vt. 节省；保存；储蓄；解救
+n. (Save)人名；(法)萨夫；(意、保、西、罗、塞、瑞典)萨薇 (女名)，萨韦<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>find out</Name>
+            <Meaning>找出</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>die</Name>
+            <SplittedText>die</SplittedText>
+            <Symbol>daɪ</Symbol>
+            <SymbolUs>daɪ</SymbolUs>
+            <Meaning>死</Meaning>n. 冲模，钢模；骰子
+vi. 死亡；凋零；熄灭
+vt. 死，死于…
+n. (Die)人名；(西)迭；(阿拉伯)迪埃<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>born</Name>
+            <SplittedText>born</SplittedText>
+            <Symbol>bɔːn</Symbol>
+            <SymbolUs>bɔrn</SymbolUs>
+            <Meaning>出生</Meaning>v. 出世（bear的过去分词）
+adj. 天生的
+n. (Born)人名；(柬)邦；(英、西、俄、捷、德、瑞典、匈)博恩<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+        </Words>
+      </UIModule>
+    </Modules>
+  </UIBook>
+  <UIBook>
+    <Name>八下</Name>
+    <Modules>
+      <UIModule>
+        <Name>Module1</Name>
+        <Words />
+      </UIModule>
+    </Modules>
+  </UIBook>
+  <UIBook>
+    <Name>九上</Name>
+    <Modules />
+  </UIBook>
+  <UIBook>
+    <Name>九下</Name>
+    <Modules />
+  </UIBook>
+  <UIBook>
+    <Name>计算机</Name>
+    <Modules>
+      <UIModule>
+        <Name>a</Name>
+        <Words>
+          <UIWord>
+            <Name>resolve</Name>
+            <SplittedText>resolve</SplittedText>
+            <Symbol>rɪ'zɒlv</Symbol>
+            <SymbolUs>rɪ'zɑlv</SymbolUs>
+            <Meaning>解决</Meaning>n. 坚决；决定要做的事
+vt. 决定；溶解；使…分解；决心要做…
+vi. 解决；决心；分解<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>recent</Name>
+            <SplittedText>recent</SplittedText>
+            <Symbol>'riːs(ə)nt</Symbol>
+            <SymbolUs>'risnt</SymbolUs>
+            <Meaning>最近</Meaning>adj. 最近的；近代的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>problem</Name>
+            <SplittedText>problem</SplittedText>
+            <Symbol>'prɒbləm</Symbol>
+            <SymbolUs>'prɑbləm</SymbolUs>
+            <Meaning>问题</Meaning>n. 难题；引起麻烦的人
+adj. 成问题的；难处理的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>security</Name>
+            <SplittedText>security</SplittedText>
+            <Symbol>sɪ'kjʊərətɪ</Symbol>
+            <SymbolUs>sə'kjʊrəti</SymbolUs>
+            <Meaning>安全</Meaning>n. 安全；保证；证券；抵押品
+adj. 安全的；保安的；保密的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>maintenance</Name>
+            <SplittedText>maintenance</SplittedText>
+            <Symbol>'meɪnt(ə)nəns; -tɪn-</Symbol>
+            <SymbolUs>'mentənəns</SymbolUs>
+            <Meaning>维护</Meaning>n. 维护，维修；保持；生活费用<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>panel</Name>
+            <SplittedText>panel</SplittedText>
+            <Symbol>'pæn(ə)l</Symbol>
+            <SymbolUs>'pænl</SymbolUs>
+            <Meaning>面板</Meaning>n. 仪表板；嵌板；座谈小组，全体陪审员
+vt. 嵌镶板
+n. (Panel)人名；(英、法)帕内尔<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>archive</Name>
+            <SplittedText>archive</SplittedText>
+            <Symbol>'ɑrkaɪv</Symbol>
+            <SymbolUs>'ɑrkaɪv</SymbolUs>
+            <Meaning>存档</Meaning>n. 档案馆；档案文件
+vt. 把…存档<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>compatibility</Name>
+            <SplittedText>compatibility</SplittedText>
+            <Symbol>kəm,pætɪ'bɪlɪtɪ</Symbol>
+            <SymbolUs>kəm,pætə'bɪləti</SymbolUs>
+            <Meaning>兼容性</Meaning>n. [计] 兼容性<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>troubleshooter</Name>
+            <SplittedText>troubleshooter</SplittedText>
+            <Symbol>'trʌbl,ʃu:tə</Symbol>
+            <SymbolUs>'trʌbl,ʃu:tə</SymbolUs>
+            <Meaning>故障诊断程序</Meaning>n. 故障检修工；解决纠纷者；解决麻烦问题的能手<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>virus</Name>
+            <SplittedText>virus</SplittedText>
+            <Symbol>'vaɪrəs</Symbol>
+            <SymbolUs>'vaɪrəs</SymbolUs>
+            <Meaning>病毒</Meaning>n. [病毒] 病毒；恶毒；毒害
+n. (Virus)人名；(西)比鲁斯<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>protection</Name>
+            <SplittedText>protection</SplittedText>
+            <Symbol>prə'tekʃ(ə)n</Symbol>
+            <SymbolUs>prə'tɛkʃən</SymbolUs>
+            <Meaning>保护</Meaning>n. 保护；防卫；护照<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>refresh</Name>
+            <SplittedText>refresh</SplittedText>
+            <Symbol>rɪ'freʃ</Symbol>
+            <SymbolUs>ri'frɛʃ</SymbolUs>
+            <Meaning>刷新</Meaning>vt. 更新；使……恢复；使……清新；消除……的疲劳
+vi. 恢复精神；喝饮料，吃点心；补充给养<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>affecting</Name>
+            <SplittedText>affecting</SplittedText>
+            <Symbol>ə'fektɪŋ</Symbol>
+            <SymbolUs>ə'fɛktɪŋ</SymbolUs>
+            <Meaning>影响</Meaning>v. 影响（affect的ing形式）；感动
+adj. 动人的；感人的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>folder</Name>
+            <SplittedText>folder</SplittedText>
+            <Symbol>'fəʊldə</Symbol>
+            <SymbolUs>'foldɚ</SymbolUs>
+            <Meaning>文件夹</Meaning>n. 文件夹；折叠机；折叠式印刷品
+n. (Folder)人名；(德)福尔德<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>explorer</Name>
+            <SplittedText>explorer</SplittedText>
+            <Symbol>ek'splɔːrə(r)</Symbol>
+            <SymbolUs>ɪk'splɔrɚ</SymbolUs>
+            <Meaning>资源管理器</Meaning>n. 探险家；勘探者；探测器；[医]探针<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>extra</Name>
+            <SplittedText>extra</SplittedText>
+            <Symbol>'ekstrə</Symbol>
+            <SymbolUs>'ɛkstrə</SymbolUs>
+            <Meaning>额外的</Meaning>n. 临时演员；号外；额外的事物；上等产品
+adj. 额外的，另外收费的；特大的
+adv. 特别地，非常；另外<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>medium</Name>
+            <SplittedText>medium</SplittedText>
+            <Symbol>'miːdɪəm</Symbol>
+            <SymbolUs>'midɪəm</SymbolUs>
+            <Meaning>媒介</Meaning>n. 方法；媒体；媒介；中间物
+adj. 中间的，中等的；半生熟的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>tiles</Name>
+            <SplittedText>tiles</SplittedText>
+            <Symbol>taɪlz</Symbol>
+            <SymbolUs>taɪlz</SymbolUs>
+            <Meaning>瓷砖</Meaning>n. [建] 瓷砖（tile的复数形式）
+v. 铺砖（tile的第三人称单数形式）
+n. (Tiles)人名；(瑞典)蒂勒斯；(匈)蒂莱什<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>content</Name>
+            <SplittedText>content</SplittedText>
+            <Symbol>kən'tent</Symbol>
+            <SymbolUs>'kɑntɛnt</SymbolUs>
+            <Meaning>内容</Meaning>n. 内容，目录；满足；容量
+adj. 满意的
+vt. 使满足
+n. (Content)人名；(法)孔唐<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>forward</Name>
+            <SplittedText>forward</SplittedText>
+            <Symbol>'fɔːwəd</Symbol>
+            <SymbolUs>'fɔrwɚd</SymbolUs>
+            <Meaning>向前</Meaning>n. 前锋
+adj. 向前的；早的；迅速的
+adv. 向前地；向将来
+vt. 促进；转寄；运送
+n. (Forward)人名；(英)福沃德<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>paste</Name>
+            <SplittedText>paste</SplittedText>
+            <Symbol>peɪst</Symbol>
+            <SymbolUs>pest</SymbolUs>
+            <Meaning>粘贴</Meaning>n. 面团，膏；糊状物，[胶粘] 浆糊
+vt. 张贴，裱糊；用浆糊粘
+n. (Paste)人名；(法)帕斯泰<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>invert</Name>
+            <SplittedText>invert</SplittedText>
+            <Symbol>ɪn'vɜːt</Symbol>
+            <SymbolUs>'ɪnvɝt</SymbolUs>
+            <Meaning>反</Meaning>n. 颠倒的事物；倒置物；倒悬者
+adj. 转化的
+vt. 使…转化；使…颠倒；使…反转；使…前后倒置<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>converter</Name>
+            <SplittedText>converter</SplittedText>
+            <Symbol>kən'vɜːtə</Symbol>
+            <SymbolUs>kən'vɝtɚ</SymbolUs>
+            <Meaning>转换器</Meaning>n. [电] 变流器，整流器；转化器<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>analyze</Name>
+            <SplittedText>analyze</SplittedText>
+            <Symbol>'ænə,laɪz</Symbol>
+            <SymbolUs>'ænə,laɪz</SymbolUs>
+            <Meaning>分析</Meaning>vt. 对…进行分析，分解（等于analyse）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>performance</Name>
+            <SplittedText>performance</SplittedText>
+            <Symbol>pə'fɔːm(ə)ns</Symbol>
+            <SymbolUs>pɚ'fɔrməns</SymbolUs>
+            <Meaning>性能</Meaning>n. 性能；绩效；表演；执行；表现<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>profiler</Name>
+            <SplittedText>profiler</SplittedText>
+            <Symbol>'prəufailə</Symbol>
+            <SymbolUs>'prəufailə</SymbolUs>
+            <Meaning>分析器</Meaning>n. 分析器，分析工具；仿形铣床；[测] 断面仪<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>calculate</Name>
+            <SplittedText>calculate</SplittedText>
+            <Symbol>'kælkjʊleɪt</Symbol>
+            <SymbolUs>'kælkjulet</SymbolUs>
+            <Meaning>计算</Meaning>vt. 计算；预测；认为；打算
+vi. 计算；以为；作打算<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>navigate</Name>
+            <SplittedText>navigate</SplittedText>
+            <Symbol>'nævɪgeɪt</Symbol>
+            <SymbolUs>'nævə'get</SymbolUs>
+            <Meaning>导航</Meaning>vi. 航行，航空
+vt. 驾驶，操纵；使通过；航行于<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>refactor</Name>
+            <SplittedText>refactor</SplittedText>
+            <Symbol>ri'fæktə</Symbol>
+            <SymbolUs>ri'fæktə</SymbolUs>
+            <Meaning>重构</Meaning>n. 重构
+vt. 重构<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>inspect</Name>
+            <SplittedText>inspect</SplittedText>
+            <Symbol>ɪn'spekt</Symbol>
+            <SymbolUs>ɪn'spɛkt</SymbolUs>
+            <Meaning>检查</Meaning>vt. 检查；视察；检阅
+vi. 进行检查；进行视察<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>extension</Name>
+            <SplittedText>extension</SplittedText>
+            <Symbol>ɪk'stenʃ(ə)n; ek-</Symbol>
+            <SymbolUs>ɪk'stɛnʃən</SymbolUs>
+            <Meaning>扩展</Meaning>n. 延长；延期；扩大；伸展；电话分机<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>stack</Name>
+            <SplittedText>stack</SplittedText>
+            <Symbol>stæk</Symbol>
+            <SymbolUs>stæk</SymbolUs>
+            <Meaning>堆栈</Meaning>n. 堆；堆叠
+vt. 使堆叠；把…堆积起来
+vi. 堆积，堆叠
+n. (Stack)人名；(英)斯塔克；(德)施塔克<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>traces</Name>
+            <SplittedText>traces</SplittedText>
+            <Symbol>'treɪsɪs</Symbol>
+            <SymbolUs>'tresɪs</SymbolUs>
+            <Meaning>痕迹</Meaning>n. [法] 痕迹；遗迹（trace的复数）
+v. [审计] 追溯；[计][电子] 跟踪；摹写（trace的三单形式）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>previous</Name>
+            <SplittedText>previous</SplittedText>
+            <Symbol>'priːvɪəs</Symbol>
+            <SymbolUs>'privɪəs</SymbolUs>
+            <Meaning>以前的</Meaning>adj. 以前的；早先的；过早的
+adv. 在先；在…以前<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>relate</Name>
+            <SplittedText>relate</SplittedText>
+            <Symbol>rɪ'leɪt</Symbol>
+            <SymbolUs>rɪ'let</SymbolUs>
+            <Meaning>联系</Meaning>vt. 叙述；使…有联系
+vi. 涉及；认同；符合；与…有某种联系<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>coverage</Name>
+            <SplittedText>coverage</SplittedText>
+            <Symbol>'kʌv(ə)rɪdʒ</Symbol>
+            <SymbolUs>'kʌvərɪdʒ</SymbolUs>
+            <Meaning>报道</Meaning>n. 覆盖，覆盖范围；新闻报道<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>generate</Name>
+            <SplittedText>generate</SplittedText>
+            <Symbol>'dʒenəreɪt</Symbol>
+            <SymbolUs>'dʒɛnəret</SymbolUs>
+            <Meaning>生成</Meaning>vt. 使形成；发生；生殖；产生物理反应<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>diagram</Name>
+            <SplittedText>diagram</SplittedText>
+            <Symbol>'daɪəgræm</Symbol>
+            <SymbolUs>'daɪəɡræm</SymbolUs>
+            <Meaning>图</Meaning>n. 图表；图解
+vt. 用图解法表示<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>graph</Name>
+            <SplittedText>graph</SplittedText>
+            <Symbol>grɑːf; græf</Symbol>
+            <SymbolUs>ɡræf</SymbolUs>
+            <Meaning>图</Meaning>n. 图表；曲线图
+vt. 用曲线图表示
+n. (Graph)人名；(英)格拉夫<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>compare</Name>
+            <SplittedText>compare</SplittedText>
+            <Symbol>kəm'peə</Symbol>
+            <SymbolUs>kəm'pɛr</SymbolUs>
+            <Meaning>比较</Meaning>vi. 相比，匹敌；比较，区别；比拟（常与to连用）
+vt. 比拟，喻为；[语]构成
+n. 比较
+n. (Compare)人名；(意)孔帕雷<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>assistant</Name>
+            <SplittedText>assistant</SplittedText>
+            <Symbol>ə'sɪst(ə)nt</Symbol>
+            <SymbolUs>ə'sɪstənt</SymbolUs>
+            <Meaning>助理</Meaning>n. 助手，助理，助教
+adj. 辅助的，助理的；有帮助的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>analysis</Name>
+            <SplittedText>analysis</SplittedText>
+            <Symbol>ə'nælɪsɪs</Symbol>
+            <SymbolUs>ə'næləsɪs</SymbolUs>
+            <Meaning>分析</Meaning>n. 分析；分解；验定<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>lookup</Name>
+            <SplittedText>lookup</SplittedText>
+            <Symbol>'lʊkʌp</Symbol>
+            <SymbolUs>luk'ʌp</SymbolUs>
+            <Meaning>查找</Meaning>n. 查找；检查<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>theme</Name>
+            <SplittedText>theme</SplittedText>
+            <Symbol>θiːm</Symbol>
+            <SymbolUs>θim</SymbolUs>
+            <Meaning>主题</Meaning>n. 主题；主旋律；题目
+adj. 以奇想主题布置的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+        </Words>
+      </UIModule>
+      <UIModule>
+        <Name>b</Name>
+        <Words>
+          <UIWord>
+            <Name>customize</Name>
+            <SplittedText>customize</SplittedText>
+            <Symbol>'kʌstəmaɪz</Symbol>
+            <SymbolUs>'kʌstəmaɪz</SymbolUs>
+            <Meaning>定制</Meaning>vt. 定做，按客户具体要求制造<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>graphics</Name>
+            <SplittedText>graphics</SplittedText>
+            <Symbol>'græfɪks</Symbol>
+            <SymbolUs>'græfɪks</SymbolUs>
+            <Meaning>图形</Meaning>n. [测] 制图学；制图法；图表算法<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>attach</Name>
+            <SplittedText>attach</SplittedText>
+            <Symbol>ə'tætʃ</Symbol>
+            <SymbolUs>ə'tætʃ</SymbolUs>
+            <Meaning>附加</Meaning>vi. 附加；附属；伴随
+vt. 使依附；贴上；系上；使依恋<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>toggle</Name>
+            <SplittedText>toggle</SplittedText>
+            <Symbol>'tɒg(ə)l</Symbol>
+            <SymbolUs>'tɑɡl</SymbolUs>
+            <Meaning>切换</Meaning>n. 开关，触发器；拴扣；[船] 套索钉
+vt. 拴牢，系紧<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>breakpoint</Name>
+            <SplittedText>breakpoint</SplittedText>
+            <Symbol>'breikpɔint</Symbol>
+            <SymbolUs>'breikpɔint</SymbolUs>
+            <Meaning>断点</Meaning>n. [计] 断点，断裂点<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>existing</Name>
+            <SplittedText>existing</SplittedText>
+            <Symbol>ɪɡ'zɪstɪŋ</Symbol>
+            <SymbolUs>ɪɡ'zɪstɪŋ</SymbolUs>
+            <Meaning>现有的</Meaning>adj. 目前的；现存的
+v. 存在（exist的现在分词）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>custom</Name>
+            <SplittedText>custom</SplittedText>
+            <Symbol>'kʌstəm</Symbol>
+            <SymbolUs>'kʌstəm</SymbolUs>
+            <Meaning>自定义</Meaning>n. 习惯，惯例；风俗；海关，关税；经常光顾；[总称]（经常性的）顾客
+adj. （衣服等）定做的，定制的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>batch</Name>
+            <SplittedText>batch</SplittedText>
+            <Symbol>bætʃ</Symbol>
+            <SymbolUs>bætʃ</SymbolUs>
+            <Meaning>批处理</Meaning>n. 一批；一炉；一次所制之量
+vt. 分批处理
+n. (Batch)人名；(英)巴奇<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>bookmark</Name>
+            <SplittedText>bookmark</SplittedText>
+            <Symbol>'bʊkmɑːk</Symbol>
+            <SymbolUs>'bʊkmɑrk</SymbolUs>
+            <Meaning>书签</Meaning>n. 书签（等于bookmarker）；标记<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>notification</Name>
+            <SplittedText>notification</SplittedText>
+            <Symbol>,nəʊtɪfɪ'keɪʃn</Symbol>
+            <SymbolUs>'notəfə'keʃən</SymbolUs>
+            <Meaning>通知</Meaning>n. 通知；通告；[法] 告示<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>result</Name>
+            <SplittedText>result</SplittedText>
+            <Symbol>rɪ'zʌlt</Symbol>
+            <SymbolUs>rɪ'zʌlt</SymbolUs>
+            <Meaning>结果</Meaning>n. 结果；成绩；答案；比赛结果
+vi. 结果；导致；产生<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>browser</Name>
+            <SplittedText>browser</SplittedText>
+            <Symbol>'braʊzə</Symbol>
+            <SymbolUs>'braʊzɚ</SymbolUs>
+            <Meaning>浏览器</Meaning>n. [计] 浏览器；吃嫩叶的动物；浏览书本的人<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>backward</Name>
+            <SplittedText>backward</SplittedText>
+            <Symbol>'bækwəd</Symbol>
+            <SymbolUs>'bækwɚd</SymbolUs>
+            <Meaning>落后的</Meaning>adj. 向后的；反向的；发展迟缓的
+adv. 向后地；相反地<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>cycle</Name>
+            <SplittedText>cycle</SplittedText>
+            <Symbol>'saɪk(ə)l</Symbol>
+            <SymbolUs>'saɪkl</SymbolUs>
+            <Meaning>周期</Meaning>n. 循环；周期；自行车；整套；一段时间
+vt. 使循环；使轮转
+vi. 循环；骑自行车；轮转<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>advanced</Name>
+            <SplittedText>advanced</SplittedText>
+            <Symbol>æd'vɑːnst</Symbol>
+            <SymbolUs>əd'vænst</SymbolUs>
+            <Meaning>先进的</Meaning>adj. 先进的；高级的；晚期的；年老的
+v. 前进；增加；上涨（advance的过去式和过去分词形式）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>expansion</Name>
+            <SplittedText>expansion</SplittedText>
+            <Symbol>ɪk'spænʃ(ə)n; ek-</Symbol>
+            <SymbolUs>ɪk'spænʃən</SymbolUs>
+            <Meaning>扩张</Meaning>n. 膨胀；阐述；扩张物<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>wizard</Name>
+            <SplittedText>wizard</SplittedText>
+            <Symbol>'wɪzəd</Symbol>
+            <SymbolUs>'wɪzɚd</SymbolUs>
+            <Meaning>向导</Meaning>n. 男巫；术士；奇才；向导程序
+adj. 男巫的；巫术的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>allow</Name>
+            <SplittedText>allow</SplittedText>
+            <Symbol>ə'laʊ</Symbol>
+            <SymbolUs>ə'laʊ</SymbolUs>
+            <Meaning>允许</Meaning>vi. 容许；考虑
+vt. 允许；给予；认可<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>future</Name>
+            <SplittedText>future</SplittedText>
+            <Symbol>'fjuːtʃə</Symbol>
+            <SymbolUs>'fjʊtʃɚ</SymbolUs>
+            <Meaning>未来</Meaning>n. 未来；前途；期货；将来时
+adj. 将来的，未来的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>upon</Name>
+            <SplittedText>upon</SplittedText>
+            <Symbol>ə'pɒn</Symbol>
+            <SymbolUs>ə'pɑn</SymbolUs>
+            <Meaning>在</Meaning>prep. 根据；接近；在…之上<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>based</Name>
+            <SplittedText>based</SplittedText>
+            <Symbol>beɪst</Symbol>
+            <SymbolUs>best</SymbolUs>
+            <Meaning>基于</Meaning>v. 立基于，以…为基础（base的过去式和过去分词）
+adj. 有根基的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>utilize</Name>
+            <SplittedText>utilize</SplittedText>
+            <Symbol>ˈjuːtɪˌlaɪz</Symbol>
+            <SymbolUs>'juːtəlaɪz</SymbolUs>
+            <Meaning>利用</Meaning>vt. 利用<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>description</Name>
+            <SplittedText>description</SplittedText>
+            <Symbol>dɪ'skrɪpʃ(ə)n</Symbol>
+            <SymbolUs>dɪ'skrɪpʃən</SymbolUs>
+            <Meaning>描述</Meaning>n. 描述，描写；类型；说明书<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>preview</Name>
+            <SplittedText>preview</SplittedText>
+            <Symbol>'priːvjuː</Symbol>
+            <SymbolUs>'pri'vjʊ</SymbolUs>
+            <Meaning>预览</Meaning>n. 预览；试映；事先查看
+vt. 预览；预演；事先查看<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>automatically</Name>
+            <SplittedText>automatically</SplittedText>
+            <Symbol>ɔːtə'mætɪklɪ</Symbol>
+            <SymbolUs>,ɔ:tə'mætikəli</SymbolUs>
+            <Meaning>自动</Meaning>adj. 不经思索的
+adv. 自动地；机械地；无意识地<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>pane</Name>
+            <SplittedText>pane</SplittedText>
+            <Symbol>peɪn</Symbol>
+            <SymbolUs>pen</SymbolUs>
+            <Meaning>窗格</Meaning>n. 窗格；边；面；窗格玻璃；嵌板
+vt. 装窗玻璃于；镶嵌板于
+n. (Pane)人名；(老)班；(英)潘恩；(德、西、意、塞、印尼)帕内<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>scope</Name>
+            <SplittedText>scope</SplittedText>
+            <Symbol>skəʊp</Symbol>
+            <SymbolUs>skop</SymbolUs>
+            <Meaning>范围</Meaning>n. 范围；余地；视野；眼界；导弹射程
+vt. 审视<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>initialize</Name>
+            <SplittedText>initialize</SplittedText>
+            <Symbol>ɪ'nɪʃ(ə)laɪz</Symbol>
+            <SymbolUs>ɪ'nɪʃəlaɪz</SymbolUs>
+            <Meaning>初始化</Meaning>vt. 初始化<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>interaction</Name>
+            <SplittedText>interaction</SplittedText>
+            <Symbol>ɪntər'ækʃ(ə)n</Symbol>
+            <SymbolUs>,ɪntə'rækʃən</SymbolUs>
+            <Meaning>交互</Meaning>n. 相互作用；[数] 交互作用
+n. 互动<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>issues</Name>
+            <SplittedText>issues</SplittedText>
+            <Symbol>英 ['ɪʃju:z] 美 ['ɪʃjʊz]</Symbol>
+            <SymbolUs>'ɪʃjʊ</SymbolUs>
+            <Meaning>问题</Meaning>n. 议题，问题；债券（issue的复数）；争点
+v. 发行（issue的第三人称单数）；分发；流出<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>symbols</Name>
+            <SplittedText>symbols</SplittedText>
+            <Symbol>'sɪmbəls</Symbol>
+            <SymbolUs>'sɪmbəls</SymbolUs>
+            <Meaning>符号</Meaning>n. 符号；象征；标志；符号表（symbol的复数）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>optimize</Name>
+            <SplittedText>optimize</SplittedText>
+            <Symbol>'ɒptɪmaɪz</Symbol>
+            <SymbolUs>'ɑptɪmaɪz</SymbolUs>
+            <Meaning>优化</Meaning>vt. 使最优化，使完善
+vi. 优化；持乐观态度<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>collapse</Name>
+            <SplittedText>collapse</SplittedText>
+            <Symbol>kə'læps</Symbol>
+            <SymbolUs>kə'læps</SymbolUs>
+            <Meaning>崩溃</Meaning>n. 倒塌；失败；衰竭
+vt. 使倒塌，使崩溃；使萎陷；折叠
+vi. 倒塌；瓦解；暴跌<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>assembly</Name>
+            <SplittedText>assembly</SplittedText>
+            <Symbol>ə'semblɪ</Symbol>
+            <SymbolUs>ə'sɛmbli</SymbolUs>
+            <Meaning>组装</Meaning>n. 装配；集会，集合<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>misc</Name>
+            <SplittedText>misc</SplittedText>
+            <Symbol>'mɪsk</Symbol>
+            <SymbolUs>'mɪsk</SymbolUs>
+            <Meaning>misc</Meaning>abbr. 混杂的；各色各样混在一起；多才多艺的（miscellaneous）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>brush</Name>
+            <SplittedText>brush</SplittedText>
+            <Symbol>brʌʃ</Symbol>
+            <SymbolUs>brʌʃ</SymbolUs>
+            <Meaning>刷</Meaning>n. 刷子；画笔；毛笔；争吵；与某人有效冲突；灌木丛地带；矮树丛；狐狸尾巴
+vi. 刷；擦过；掠过；（经过时）轻触
+vt. 刷；画；<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>appearance</Name>
+            <SplittedText>appearance</SplittedText>
+            <Symbol>ə'pɪər(ə)ns</Symbol>
+            <SymbolUs>ə'pɪrəns</SymbolUs>
+            <Meaning>外观</Meaning>n. 外貌，外观；出现，露面<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>transform</Name>
+            <SplittedText>transform</SplittedText>
+            <Symbol>træns'fɔːm; trɑːns-; -nz-</Symbol>
+            <SymbolUs>træns'fɔrm</SymbolUs>
+            <Meaning>变换</Meaning>vt. 改变，使…变形；转换
+vi. 变换，改变；转化<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+        </Words>
+      </UIModule>
+      <UIModule>
+        <Name>c</Name>
+        <Words>
+          <UIWord>
+            <Name>miscellaneous</Name>
+            <SplittedText>miscellaneous</SplittedText>
+            <Symbol>,mɪsə'leɪnɪəs</Symbol>
+            <SymbolUs>'mɪsə'lenɪəs</SymbolUs>
+            <Meaning>杂项</Meaning>adj. 混杂的，各种各样的；多方面的，多才多艺的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>category</Name>
+            <SplittedText>category</SplittedText>
+            <Symbol>'kætɪg(ə)rɪ</Symbol>
+            <SymbolUs>'kætəɡɔri</SymbolUs>
+            <Meaning>类别</Meaning>n. 种类，分类；[数] 范畴<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>arrange</Name>
+            <SplittedText>arrange</SplittedText>
+            <Symbol>ə'reɪn(d)ʒ</Symbol>
+            <SymbolUs>ə'rendʒ</SymbolUs>
+            <Meaning>安排</Meaning>vi. 安排；排列；协商
+vt. 安排；排列；整理<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>regular</Name>
+            <SplittedText>regular</SplittedText>
+            <Symbol>'regjʊlə</Symbol>
+            <SymbolUs>'rɛgjəlɚ</SymbolUs>
+            <Meaning>常规的</Meaning>n. 常客；正式队员；中坚分子
+adj. 定期的；有规律的；合格的；整齐的；普通的
+adv. 定期地；经常地
+n. (Regular)人名；(以)雷古拉尔<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>culture</Name>
+            <SplittedText>culture</SplittedText>
+            <Symbol>'kʌltʃə</Symbol>
+            <SymbolUs>'kʌltʃɚ</SymbolUs>
+            <Meaning>文化</Meaning>n. 文化，文明；修养；栽培
+vt. [细胞][微] 培养（等于cultivate）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>thread</Name>
+            <SplittedText>thread</SplittedText>
+            <Symbol>θred</Symbol>
+            <SymbolUs>θrɛd</SymbolUs>
+            <Meaning>线程</Meaning>n. 线；螺纹；思路；衣服；线状物；玻璃纤维；路线
+vt. 穿过；穿线于；使交织
+vi. 通过；穿透过<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>generic</Name>
+            <SplittedText>generic</SplittedText>
+            <Symbol>dʒɪ'nerɪk</Symbol>
+            <SymbolUs>dʒə'nɛrɪk</SymbolUs>
+            <Meaning>通用的</Meaning>adj. 类的；一般的；属的；非商标的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>contract</Name>
+            <SplittedText>contract</SplittedText>
+            <Symbol>'kɒntrækt</Symbol>
+            <SymbolUs>'kɑntrækt</SymbolUs>
+            <Meaning>合同</Meaning>n. 合同；婚约
+vt. 感染；订约；使缩短
+vi. 收缩；感染；订约<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>fields</Name>
+            <SplittedText>fields</SplittedText>
+            <Symbol>'fiːldz</Symbol>
+            <SymbolUs>'fildz</SymbolUs>
+            <Meaning>字段</Meaning>n. 域，字段；场设置（field复数形式）
+v. 使上场（field的单三形式）
+n. (Fields)人名；(德、英、葡)菲尔茨<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>properties</Name>
+            <SplittedText>properties</SplittedText>
+            <Symbol>'prɒpətɪz</Symbol>
+            <SymbolUs>'prɔpɚtɪz</SymbolUs>
+            <Meaning>属性</Meaning>n. 性能；道具，内容（property的复数形式）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>tick</Name>
+            <SplittedText>tick</SplittedText>
+            <Symbol>tɪk</Symbol>
+            <SymbolUs>tɪk</SymbolUs>
+            <Meaning>滴答声</Meaning>n. 滴答声；扁虱；记号；赊欠
+vt. 标记号于；滴答地记录
+vi. 发出滴答声；标以记号
+n. (Tick)人名；(匈、芬)蒂克<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>context</Name>
+            <SplittedText>context</SplittedText>
+            <Symbol>'kɒntekst</Symbol>
+            <SymbolUs>'kɑntɛkst</SymbolUs>
+            <Meaning>上下文</Meaning>n. 环境；上下文；来龙去脉<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>invoke</Name>
+            <SplittedText>invoke</SplittedText>
+            <Symbol>ɪn'vəʊk</Symbol>
+            <SymbolUs>ɪn'vok</SymbolUs>
+            <Meaning>调用</Meaning>vt. 调用；祈求；引起；恳求<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>float</Name>
+            <SplittedText>float</SplittedText>
+            <Symbol>fləʊt</Symbol>
+            <SymbolUs>flot</SymbolUs>
+            <Meaning>浮动</Meaning>n. 彩车，花车；漂流物；浮舟；浮萍
+vi. 浮动；飘动，散播；摇摆；付诸实施
+vt. 使漂浮；实行
+n. (Float)人名；(英)弗洛特<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>sync</Name>
+            <SplittedText>sync</SplittedText>
+            <Symbol>sɪŋk</Symbol>
+            <SymbolUs>sɪŋk</SymbolUs>
+            <Meaning>同步</Meaning>n. 同步，同时
+vt. 使同步
+vi. 同时发生<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>filter</Name>
+            <SplittedText>filter</SplittedText>
+            <Symbol>'fɪltə</Symbol>
+            <SymbolUs>'fɪltɚ</SymbolUs>
+            <Meaning>过滤器</Meaning>n. 滤波器；[化工] 过滤器；筛选；滤光器
+vt. 过滤；渗透；用过滤法除去
+vi. 滤过；渗入；慢慢传开
+n. (Filter)人名；(德)菲尔特<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>sign in</Name>
+            <Meaning>签到</Meaning>
+            <KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid>
+          </UIWord>
+          <UIWord>
+            <Name>definition</Name>
+            <SplittedText>definition</SplittedText>
+            <Symbol>defɪ'nɪʃ(ə)n</Symbol>
+            <SymbolUs>,dɛfɪ'nɪʃən</SymbolUs>
+            <Meaning>定义</Meaning>n. 定义；[物] 清晰度；解说<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>selection</Name>
+            <SplittedText>selection</SplittedText>
+            <Symbol>sɪ'lekʃ(ə)n</Symbol>
+            <SymbolUs>sɪ'lɛkʃən</SymbolUs>
+            <Meaning>选择</Meaning>n. 选择，挑选；选集；精选品<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>operation</Name>
+            <SplittedText>operation</SplittedText>
+            <Symbol>ɒpə'reɪʃ(ə)n</Symbol>
+            <SymbolUs>,ɑpə'reʃən</SymbolUs>
+            <Meaning>操作</Meaning>n. 操作；经营；[外科] 手术；[数][计] 运算<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>activity</Name>
+            <SplittedText>activity</SplittedText>
+            <Symbol>æk'tɪvɪtɪ</Symbol>
+            <SymbolUs>æk'tɪviti</SymbolUs>
+            <Meaning>活动</Meaning>n. 活动；行动；活跃<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>console</Name>
+            <SplittedText>console</SplittedText>
+            <Symbol>kən'səʊl</Symbol>
+            <SymbolUs>'kɑnsol</SymbolUs>
+            <Meaning>控制台</Meaning>n. [计] 控制台；[电] 操纵台
+vt. 安慰；慰藉
+n. (Console)人名；(意、罗)孔索莱<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+        </Words>
+      </UIModule>
+      <UIModule>
+        <Name>d</Name>
+        <Words>
+          <UIWord>
+            <Name>dismiss</Name>
+            <SplittedText>dismiss</SplittedText>
+            <Symbol>dɪs'mɪs</Symbol>
+            <SymbolUs>dɪs'mɪs</SymbolUs>
+            <Meaning>驳回</Meaning>vt. 解散；解雇；开除；让...离开；不予理会、不予考虑
+vi. 解散<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>sense</Name>
+            <SplittedText>sense</SplittedText>
+            <Symbol>sens</Symbol>
+            <SymbolUs>sɛns</SymbolUs>
+            <Meaning>感觉</Meaning>n. 感觉，功能；观念；道理；理智
+vt. 感觉到；检测
+n. 森斯（人名）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>adapter</Name>
+            <SplittedText>adapter</SplittedText>
+            <Symbol>ə'dæptə</Symbol>
+            <SymbolUs>ə'dæptɚ</SymbolUs>
+            <Meaning>适配器</Meaning>n. 适配器；改编者；接合器；适应者<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>usage</Name>
+            <SplittedText>usage</SplittedText>
+            <Symbol>'juːsɪdʒ</Symbol>
+            <SymbolUs>'jusɪdʒ</SymbolUs>
+            <Meaning>使用</Meaning>n. 使用；用法；惯例<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>roaming</Name>
+            <SplittedText>roaming</SplittedText>
+            <Symbol>'rəʊmɪŋ</Symbol>
+            <SymbolUs>'romɪŋ</SymbolUs>
+            <Meaning>漫游</Meaning>n. 漫游；移动
+v. 漫步；闲逛；徘徊（roam的ing形式）<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>wireless</Name>
+            <SplittedText>wireless</SplittedText>
+            <Symbol>ˈwʌɪəlɪs</Symbol>
+            <SymbolUs>'waɪərləs</SymbolUs>
+            <Meaning>无线</Meaning>n. 无线电
+adj. 无线的；无线电的
+vt. 用无线电报与…联系；用无线电报发送
+vi. 打无线电报；打无线电话<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>communication</Name>
+            <SplittedText>communication</SplittedText>
+            <Symbol>kəmjuːnɪ'keɪʃ(ə)n</Symbol>
+            <SymbolUs>kə,mjunɪ'keʃən</SymbolUs>
+            <Meaning>沟通</Meaning>n. 通讯，[通信] 通信；交流；信函<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>cellular</Name>
+            <SplittedText>cellular</SplittedText>
+            <Symbol>'seljʊlə</Symbol>
+            <SymbolUs>'sɛljəlɚ</SymbolUs>
+            <Meaning>细胞</Meaning>n. 移动电话；单元
+adj. 细胞的；多孔的；由细胞组成的<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>device</Name>
+            <SplittedText>device</SplittedText>
+            <Symbol>dɪ'vaɪs</Symbol>
+            <SymbolUs>dɪ'vaɪs</SymbolUs>
+            <Meaning>设备</Meaning>n. 装置；策略；图案<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>personalization</Name>
+            <SplittedText>personalization</SplittedText>
+            <Symbol>'pə:sənəlaizeiʃn</Symbol>
+            <SymbolUs>'pə:sənəlaizeiʃn</SymbolUs>
+            <Meaning>个性化</Meaning>n. 个性化<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>account</Name>
+            <SplittedText>account</SplittedText>
+            <Symbol>ə'kaʊnt</Symbol>
+            <SymbolUs>ə'kaʊnt</SymbolUs>
+            <Meaning>账户</Meaning>n. 账户；解释；账目，账单；理由；描述
+vt. 认为；把…视为
+vi. 解释；导致；报账<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>ease</Name>
+            <SplittedText>ease</SplittedText>
+            <Symbol>iːz</Symbol>
+            <SymbolUs>iz</SymbolUs>
+            <Meaning>缓解</Meaning>n. 轻松，舒适；安逸，悠闲
+vt. 减轻，缓和；使安心
+vi. 减轻，缓和；放松；灵活地移动<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>privacy</Name>
+            <SplittedText>privacy</SplittedText>
+            <Symbol>'prɪvəsɪ; 'praɪ-</Symbol>
+            <SymbolUs>'praɪvəsi</SymbolUs>
+            <Meaning>隐私</Meaning>n. 隐私；秘密；隐居；隐居处<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>recovery</Name>
+            <SplittedText>recovery</SplittedText>
+            <Symbol>rɪ'kʌv(ə)rɪ</Symbol>
+            <SymbolUs>rɪ'kʌvəri</SymbolUs>
+            <Meaning>复苏</Meaning>n. 恢复，复原；痊愈；重获<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+          <UIWord>
+            <Name>magnifier</Name>
+            <SplittedText>magnifier</SplittedText>
+            <Symbol>'mæɡnɪfaɪə</Symbol>
+            <SymbolUs>'mæɡnɪfaɪɚ</SymbolUs>
+            <Meaning>放大镜</Meaning>n. [光] 放大镜；[电子] 放大器<KeyGuid>00000000-0000-0000-0000-000000000000</KeyGuid></UIWord>
+        </Words>
+      </UIModule>
+    </Modules>
+  </UIBook>
+</ArrayOfUIBook>

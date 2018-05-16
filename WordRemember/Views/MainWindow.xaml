@@ -1,0 +1,22 @@
+﻿<Window x:Class="WordRemember.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:prism="http://prismlibrary.com/"
+        xmlns:domain="clr-namespace:WordRemember.Domain;assembly=WordRemember.Domain"
+        prism:ViewModelLocator.AutoWireViewModel="True"  
+        Title="{Binding Title}" Height="600" Width="1024" Icon="/TomatoStudy;component/tomatoStudy.png" >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0"></ColumnDefinition>
+            <ColumnDefinition Width="0"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Border Background="DimGray" Grid.Column="0">
+            <ListBox prism:RegionManager.RegionName="{x:Static domain:RegionNames.MAIN_MENU_REGION}"></ListBox>
+        </Border>
+        <Border Background="CadetBlue" Grid.Column="1"></Border>
+        <Border Background="White" Grid.Column="2" Padding="5">
+            <ContentControl prism:RegionManager.RegionName="{x:Static domain:RegionNames.CONTENT_REGION}" />
+        </Border>
+    </Grid>
+</Window>

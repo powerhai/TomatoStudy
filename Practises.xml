@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <user name="Haiser">
+    <words>
+      <word name="chinese" corrected="3" failed="1" />
+      <word name="english" corrected="2" failed="0" />
+      <word name="status" corrected="1" failed="1" />
+      <word name="hill" corrected="1" failed="0" />
+      <word name="journey" corrected="2" failed="0" />
+      <word name="all the time" corrected="2" failed="0" />
+      <word name="book" corrected="2" failed="0" />
+      <word name="crowded" corrected="1" failed="2" />
+      <word name="close" corrected="2" failed="0" />
+      <word name="far from" corrected="2" failed="0" />
+      <word name="far" corrected="2" failed="0" />
+      <word name="classmate" corrected="2" failed="0" />
+      <word name="park" corrected="2" failed="0" />
+      <word name="choice" corrected="2" failed="1" />
+      <word name="except" corrected="2" failed="0" />
+      <word name="accident" corrected="2" failed="0" />
+      <word name="road" corrected="2" failed="0" />
+      <word name="magic" corrected="2" failed="0" />
+      <word name="if" corrected="2" failed="0" />
+      <word name="outside" corrected="2" failed="0" />
+      <word name="name" corrected="2" failed="0" />
+      <word name="novel" corrected="2" failed="0" />
+      <word name="college" corrected="2" failed="0" />
+      <word name="head teacher" corrected="1" failed="2" />
+      <word name="society" corrected="2" failed="1" />
+      <word name="however" corrected="2" failed="0" />
+      <word name="describe" corrected="1" failed="2" />
+      <word name="twentieth" corrected="2" failed="1" />
+      <word name="common" corrected="2" failed="0" />
+      <word name="show" corrected="2" failed="0" />
+      <word name="act" corrected="2" failed="0" />
+      <word name="no idea" corrected="2" failed="0" />
+      <word name="cost" corrected="2" failed="0" />
+      <word name="in the end" corrected="2" failed="0" />
+      <word name="end" corrected="2" failed="0" />
+      <word name="offer" corrected="2" failed="0" />
+      <word name="teahouse" corrected="2" failed="0" />
+      <word name="actress" corrected="2" failed="1" />
+    </words>
+    <practises>
+      <practise date="2016-10-11T00:12:01.3567034+08:00" book="七年级英语上" modules="Module 1,Module 2" count="5" error="0" seconds="11" wordsCountMinute="23.9298782" />
+      <practise date="2016-10-11T00:42:38.7803303+08:00" book="八上" modules="Module 1" count="32" error="3" seconds="140" wordsCountMinute="15.0933418" />
+      <practise date="2016-10-11T10:34:07.7320314+08:00" book="七上" modules="Module 1 (starter),Module 2 (starter),Module 3 (starter),Module 4 (starter)" count="91" error="10" seconds="471" wordsCountMinute="13.7699242" />
+      <practise date="2016-10-11T17:00:41.9053034+08:00" book="七下" modules="Module 1" count="4" error="1" seconds="16" wordsCountMinute="15.9353495" />
+      <practise date="2016-10-11T17:11:10.1240112+08:00" book="七下" modules="Module 1" count="1" error="0" seconds="4" wordsCountMinute="0" />
+      <practise date="2016-10-11T17:11:27.9519341+08:00" book="七下" modules="Module 1" count="4" error="1" seconds="13" wordsCountMinute="18.4679241" />
+      <practise date="2016-10-11T17:11:36.5273404+08:00" book="七下" modules="Module 1" count="2" error="0" seconds="5" wordsCountMinute="14.9525385" />
+      <practise date="2016-10-11T20:14:55.9580674+08:00" book="八上" modules="Module 5,Module 4" count="34" error="4" seconds="411" wordsCountMinute="5.696115" />
+      <practise date="2016-10-11T20:32:49.3856481+08:00" book="八上" modules="Module 5,Module 4" count="34" error="5" seconds="1068" wordsCountMinute="2.30382657" />
+      <practise date="2016-10-11T20:39:26.2625179+08:00" book="八上" modules="Module 4,Module 5" count="7" error="1" seconds="312" wordsCountMinute="1.34869123" />
+    </practises>
+  </user>
+  <user name="Xinao">
+    <words>
+      <word name="miss" corrected="3" failed="0" />
+      <word name="mind" corrected="3" failed="0" />
+      <word name="stadium" corrected="3" failed="0" />
+      <word name="plenty" corrected="3" failed="0" />
+      <word name="Olympics" corrected="4" failed="1" />
+      <word name="enjoyable" corrected="3" failed="0" />
+      <word name="plenty of" corrected="3" failed="0" />
+      <word name="hurt" corrected="3" failed="0" />
+      <word name="beat" corrected="3" failed="0" />
+      <word name="what's the matter" corrected="3" failed="0" />
+      <word name="careless" corrected="4" failed="1" />
+      <word name="matter" corrected="3" failed="0" />
+      <word name="cheer" corrected="3" failed="0" />
+      <word name="already" corrected="3" failed="0" />
+      <word name="coach" corrected="3" failed="0" />
+      <word name="score" corrected="3" failed="0" />
+      <word name="exciting" corrected="3" failed="0" />
+      <word name="fan club" corrected="3" failed="0" />
+      <word name="boring" corrected="3" failed="0" />
+      <word name="against" corrected="3" failed="0" />
+      <word name="volleyball" corrected="3" failed="0" />
+      <word name="train" corrected="3" failed="0" />
+      <word name="practice" corrected="5" failed="2" />
+      <word name="especially" corrected="4" failed="1" />
+      <word name="difficult" corrected="6" failed="1" />
+      <word name="warm" corrected="3" failed="0" />
+      <word name="opera" corrected="3" failed="0" />
+      <word name="warm up" corrected="3" failed="0" />
+      <word name="drink" corrected="4" failed="1" />
+      <word name="usual" corrected="6" failed="1" />
+      <word name="greatest" corrected="6" failed="1" />
+      <word name="better" corrected="3" failed="0" />
+      <word name="artist" corrected="3" failed="4" />
+      <word name="pleased" corrected="3" failed="0" />
+      <word name="short" corrected="3" failed="0" />
+      <word name="returned" corrected="2" failed="5" />
+      <word name="pass" corrected="3" failed="0" />
+      <word name="primary" corrected="0" failed="7" />
+      <word name="pity" corrected="3" failed="0" />
+      <word name="became" corrected="3" failed="0" />
+      <word name="chance" corrected="3" failed="0" />
+      <word name="finish" corrected="3" failed="2" />
+      <word name="loudly" corrected="3" failed="2" />
+      <word name="sent" corrected="3" failed="0" />
+      <word name="born" corrected="4" failed="0" />
+      <word name="confident" corrected="3" failed="0" />
+      <word name="century" corrected="2" failed="3" />
+      <word name="road" corrected="3" failed="0" />
+      <word name="customer" corrected="3" failed="2" />
+      <word name="accident" corrected="3" failed="0" />
+      <word name="magic" corrected="3" failed="0" />
+      <word name="except" corrected="3" failed="0" />
+      <word name="if" corrected="3" failed="0" />
+      <word name="name" corrected="3" failed="0" />
+      <word name="choice" corrected="3" failed="0" />
+      <word name="novel" corrected="3" failed="0" />
+      <word name="classmate" corrected="4" failed="1" />
+      <word name="college" corrected="6" failed="1" />
+      <word name="far" corrected="3" failed="0" />
+      <word name="head teacher" corrected="3" failed="0" />
+      <word name="far from" corrected="3" failed="0" />
+      <word name="society" corrected="3" failed="2" />
+      <word name="close" corrected="3" failed="0" />
+      <word name="describe" corrected="3" failed="2" />
+      <word name="twentieth" corrected="3" failed="0" />
+      <word name="crowded" corrected="3" failed="0" />
+      <word name="common" corrected="4" failed="1" />
+      <word name="all the time" corrected="3" failed="0" />
+      <word name="show" corrected="3" failed="0" />
+      <word name="journey" corrected="3" failed="0" />
+      <word name="act" corrected="3" failed="0" />
+      <word name="book" corrected="3" failed="0" />
+      <word name="no idea" corrected="3" failed="0" />
+      <word name="in the end" corrected="3" failed="0" />
+      <word name="park" corrected="3" failed="0" />
+      <word name="end" corrected="3" failed="0" />
+      <word name="outside" corrected="3" failed="0" />
+      <word name="offer" corrected="3" failed="0" />
+      <word name="however" corrected="3" failed="0" />
+      <word name="teahouse" corrected="3" failed="0" />
+      <word name="cost" corrected="3" failed="0" />
+      <word name="actress" corrected="3" failed="0" />
+      <word name="west" corrected="2" failed="0" />
+      <word name="east" corrected="2" failed="0" />
+      <word name="home town" corrected="2" failed="0" />
+      <word name="be famous for" corrected="2" failed="0" />
+      <word name="university" corrected="2" failed="0" />
+      <word name="island" corrected="2" failed="0" />
+      <word name="area" corrected="2" failed="0" />
+      <word name="south" corrected="2" failed="0" />
+      <word name="low" corrected="2" failed="0" />
+      <word name="countryside" corrected="3" failed="1" />
+      <word name="umbrella" corrected="3" failed="1" />
+      <word name="north" corrected="2" failed="0" />
+      <word name="get" corrected="3" failed="1" />
+      <word name="than" corrected="2" failed="0" />
+      <word name="pretty good" corrected="3" failed="1" />
+      <word name="pretty" corrected="2" failed="0" />
+      <word name="million" corrected="2" failed="0" />
+      <word name="wide" corrected="2" failed="0" />
+      <word name="pronounce" corrected="2" failed="0" />
+      <word name="correct" corrected="2" failed="0" />
+      <word name="spelling" corrected="2" failed="0" />
+      <word name="word" corrected="2" failed="0" />
+      <word name="practise" corrected="3" failed="1" />
+      <word name="match" corrected="3" failed="1" />
+      <word name="meaning" corrected="2" failed="0" />
+      <word name="complete" corrected="0" failed="4" />
+      <word name="sentence" corrected="3" failed="1" />
+      <word name="dictionary" corrected="2" failed="0" />
+      <word name="population" corrected="2" failed="0" />
+      <word name="grammar" corrected="3" failed="1" />
+      <word name="letter" corrected="2" failed="0" />
+      <word name="look up" corrected="3" failed="1" />
+      <word name="mistake" corrected="2" failed="0" />
+      <word name="make a mistake" corrected="2" failed="0" />
+      <word name="understand" corrected="2" failed="0" />
+      <word name="advice" corrected="2" failed="0" />
+      <word name="should" corrected="3" failed="1" />
+      <word name="possible" corrected="2" failed="0" />
+      <word name="write down" corrected="3" failed="1" />
+      <word name="notebook" corrected="2" failed="0" />
+      <word name="forget" corrected="2" failed="0" />
+      <word name="hill" corrected="2" failed="0" />
+      <word name="aloud" corrected="1" failed="3" />
+      <word name="radio" corrected="2" failed="0" />
+      <word name="pronunciation" corrected="2" failed="0" />
+      <word name="key" corrected="2" failed="0" />
+      <word name="main" corrected="2" failed="0" />
+      <word name="excellent" corrected="2" failed="2" />
+      <word name="agree" corrected="2" failed="0" />
+      <word name="agree with sb" corrected="2" failed="0" />
+      <word name="vocabulary" corrected="2" failed="0" />
+      <word name="ask for" corrected="2" failed="0" />
+      <word name="thin" corrected="1" failed="0" />
+      <word name="danger" corrected="1" failed="0" />
+      <word name="in danger" corrected="1" failed="0" />
+      <word name="at last" corrected="1" failed="0" />
+      <word name="interested" corrected="1" failed="0" />
+      <word name="neck" corrected="1" failed="0" />
+      <word name="allow" corrected="1" failed="0" />
+      <word name="think of" corrected="0" failed="1" />
+      <word name="protect" corrected="1" failed="0" />
+      <word name="wild" corrected="1" failed="0" />
+      <word name="grow" corrected="1" failed="0" />
+      <word name="take away" corrected="1" failed="0" />
+      <word name="enough" corrected="1" failed="0" />
+      <word name="peace" corrected="1" failed="0" />
+      <word name="in peace" corrected="1" failed="0" />
+      <word name="notice" corrected="1" failed="0" />
+      <word name="look after" corrected="1" failed="0" />
+      <word name="raise" corrected="1" failed="0" />
+      <word name="research" corrected="1" failed="0" />
+      <word name="baby" corrected="1" failed="0" />
+      <word name="situation" corrected="0" failed="1" />
+      <word name="scientist" corrected="0" failed="1" />
+      <word name="produce" corrected="1" failed="0" />
+      <word name="southwest" corrected="1" failed="0" />
+      <word name="order" corrected="0" failed="1" />
+      <word name="in order to" corrected="1" failed="0" />
+      <word name="snake" corrected="1" failed="0" />
+      <word name="government" corrected="0" failed="1" />
+      <word name="set" corrected="1" failed="0" />
+      <word name="set up" corrected="1" failed="0" />
+      <word name="nature" corrected="1" failed="0" />
+      <word name="nature park" corrected="1" failed="0" />
+      <word name="develop" corrected="1" failed="0" />
+      <word name="feed" corrected="0" failed="1" />
+      <word name="symbol" corrected="0" failed="1" />
+      <word name="people" corrected="1" failed="0" />
+      <word name="animals" corrected="1" failed="0" />
+      <word name="safe" corrected="1" failed="0" />
+      <word name="village" corrected="1" failed="0" />
+      <word name="farm" corrected="0" failed="1" />
+      <word name="land" corrected="1" failed="0" />
+      <word name="forest" corrected="1" failed="0" />
+      <word name="save" corrected="1" failed="0" />
+      <word name="find out" corrected="1" failed="0" />
+      <word name="die" corrected="1" failed="0" />
+    </words>
+    <practises>
+      <practise date="2016-10-12T20:53:41.0550487+08:00" book="八上" modules="Module 5,Module 3,Module 4" count="82" error="8" seconds="2062" wordsCountMinute="2.968778" />
+      <practise date="2016-10-12T21:14:30.9923649+08:00" book="八上" modules="Module 4,Module 3,Module 5" count="8" error="3" seconds="481" wordsCountMinute="1.99552047" />
+      <practise date="2016-10-12T21:16:13.4318594+08:00" book="八上" modules="Module 4,Module 3,Module 5" count="8" error="1" seconds="98" wordsCountMinute="4.947691" />
+      <practise date="2016-10-15T09:36:49.7289527+08:00" book="八上" modules="Module 2,Module 3,Module 4,Module 5,Module 1" count="134" error="16" seconds="3189" wordsCountMinute="3.18027449" />
+      <practise date="2016-10-17T21:03:11.3230357+08:00" book="八上" modules="Module 1,Module 3,Module 2,Module 4,Module 5" count="134" error="19" seconds="1682" wordsCountMinute="6.244343" />
+      <practise date="2016-10-17T21:28:19.3110127+08:00" book="八上" modules="Module 1,Module 3,Module 2,Module 4,Module 5" count="34" error="7" seconds="598" wordsCountMinute="4.922627" />
+      <practise date="2016-10-17T21:54:43.5651197+08:00" book="八上" modules="Module 1,Module 3,Module 2,Module 4,Module 5" count="34" error="7" seconds="1122" wordsCountMinute="2.62077117" />
+      <practise date="2016-10-18T21:11:51.1385357+08:00" book="八上" modules="Module 6" count="46" error="8" seconds="914" wordsCountMinute="3.5460968" />
+    </practises>
+  </user>
+</root>

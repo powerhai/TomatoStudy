@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="Tomato.SpireTest.Views.DocView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"
+             xmlns:forms="clr-namespace:Spire.DocViewer.Forms;assembly=Spire.DocViewer.Forms"
+             prism:ViewModelLocator.AutoWireViewModel="True" Loaded="UserControl_Loaded" >
+    <Grid Background="#FFB24646">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="9*"/>
+        </Grid.RowDefinitions>
+
+        <WindowsFormsHost Grid.Row="1" >
+            <forms:DocViewer x:Name="hihi"></forms:DocViewer>
+        </WindowsFormsHost>
+<Button Grid.Row="0" Click="ButtonBase_OnClick">open</Button>
+    </Grid>
+</UserControl>

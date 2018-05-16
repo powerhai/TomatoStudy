@@ -1,0 +1,9 @@
+﻿<Button x:Class="Practice.Views.PracticeMainButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"             
+             prism:ViewModelLocator.AutoWireViewModel="True"
+     Command="{Binding GoCommand}"
+        >
+     <TextBlock>练习</TextBlock>
+</Button>

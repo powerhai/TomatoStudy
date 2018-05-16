@@ -1,0 +1,9 @@
+﻿<RadioButton x:Class="Managerment.Views.ManagermentMainButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"             
+             prism:ViewModelLocator.AutoWireViewModel="True"
+        Command="{Binding GotoMgtCommand}" Style="{StaticResource NavigationButtonStyle}"
+        >
+    <TextBlock Text="{Binding Title}"></TextBlock>
+</RadioButton>

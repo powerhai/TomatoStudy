@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <user name="haiser">
+    <practises>
+      <practise date='2017-1-1 22:33' book='七年级' modules="2,3,4" count="34" error="23" />
+    </practises>
+    <words>
+      <word name="hello" corrected="5" failed="3" />
+    </words>
+  </user>
+</root>

@@ -1,0 +1,93 @@
+﻿<UserControl x:Class="Managerment.Views.AddNewWordView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+
+             prism:ViewModelLocator.AutoWireViewModel="True" Padding="10" MinWidth="450"  >
+ 
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid >
+            <Grid.Resources>
+                <Thickness x:Key="Interval">3</Thickness>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Margin" Value="{StaticResource Interval}"></Setter>
+                </Style>
+                <Style TargetType="{x:Type TextBox}">
+                    <Setter Property="Margin" Value="{StaticResource Interval}"></Setter>
+                </Style>
+            </Grid.Resources>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            
+            <TextBlock Text="单词（英文）" Grid.Row="0"></TextBlock> 
+            <Grid Grid.Row="0" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"></ColumnDefinition>
+                    <ColumnDefinition Width="10"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBox   Grid.Column="0" Text="{Binding Path=Data.Name}"   x:Name="TextBox_WordName" >
+                    <TextBox.InputBindings>
+                        <KeyBinding Key="Enter" Command="{Binding SearchWordCommand}" CommandParameter="{Binding ElementName=TextBox_WordName,Path=Text}"></KeyBinding>
+                    </TextBox.InputBindings>
+                </TextBox>                
+                <TextBox Grid.Column="2" Text="{Binding Path=Data.Meaning}"></TextBox>
+            </Grid>
+
+            
+            <TextBlock Text="助记分隔" Grid.Row="1"></TextBlock>
+            <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding Path=Data.SplittedText}"></TextBox>
+            
+            <TextBlock Text="音标" Grid.Row="2"></TextBlock>
+            <Grid Grid.Row="2" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"></ColumnDefinition>
+                    <ColumnDefinition Width="10"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBox   Grid.Column="0" Text="{Binding Path=Data.Symbol}"></TextBox>
+                <TextBox   Grid.Column="2" Text="{Binding Path=Data.SymbolUs}"></TextBox>
+            </Grid>
+               
+            
+            <TextBlock Text="释义" Grid.Row="3"></TextBlock>
+            <TextBox Grid.Row="3" Grid.Column="1" Text="{Binding Path=Data.Explains}" TextWrapping="Wrap" AcceptsReturn="True" MaxHeight="100"></TextBox>
+            
+            <TextBlock Text="MP3" Grid.Row="4"></TextBlock>
+            <TextBox Grid.Row="4" Grid.Column="1" Text="{Binding Path=Data.SoundUrl}"></TextBox>
+            
+            <TextBlock Text="句子" Grid.Row="5"></TextBlock>
+            <TextBox Grid.Row="5" Grid.Column="1" Text="{Binding Path=Data.Sentence}"></TextBox>
+            
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="70"/>
+                <ColumnDefinition Width="10"/>
+                <ColumnDefinition Width="70"/> 
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="1" Content="保存" Command="{Binding SaveCommand}"></Button>
+            <Button Grid.Column="3" Content="取消" Command="{Binding CancelCommand}"></Button>
+        </Grid>
+    </Grid>
+
+</UserControl>

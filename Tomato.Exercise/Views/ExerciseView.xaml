@@ -1,0 +1,75 @@
+﻿<TabItem x:Class="Tomato.Exercise.Views.ExerciseView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Tomato.Exercise.Views" 
+             xmlns:mvvm="http://prismlibrary.com/"
+             xmlns:busy="clr-namespace:WPF.Controls.Busy;assembly=WPF.Controls"
+             xmlns:domain="clr-namespace:WordRemember.Domain;assembly=WordRemember.Domain"
+             mvvm:ViewModelLocator.AutoWireViewModel="True"
+             mc:Ignorable="d"  Style="{StaticResource MainTabItemStyle}" Header="课程复习"
+             d:DesignHeight="300" d:DesignWidth="300" >
+ 
+ 
+          <Grid>
+         
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="5"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+  
+        <DocumentViewer  Document="{Binding CurrentDocument}"   ShowPageBorders="False" >
+            <DocumentViewer.Resources>
+                <Style TargetType="ContentControl">
+                    <Style.Triggers>
+                        <Trigger Property="Name" Value="PART_FindToolBarHost">
+                            <Setter Property="Visibility" Value="Collapsed" />
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </DocumentViewer.Resources>
+        </DocumentViewer>
+              <TextBlock  Grid.Row="0" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="5">
+                  <Run Text="{Binding PointView.CurrentItem.BookTitle}"></Run> 
+                  <Run Text=" "></Run>
+                  <Run Text="{Binding PointView.CurrentPosition,Mode=OneWay,Converter={StaticResource IndexConverter}}"></Run>
+                  <Run Text=" / "></Run>
+                  <Run Text="{Binding PointCount,Mode=OneWay}"></Run>
+              </TextBlock> 
+              <Border HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="{Binding IsOver,Converter={StaticResource BoolToVisibilityConverter}}"  >
+                <TextBlock FontWeight="Bold" FontSize="30" Height="40" FontFamily="Microsoft YaHei" Foreground="#FF0E8CF5"
+                            
+                           >恭喜你，本次课程已复习完毕！</TextBlock>                
+              </Border>
+
+        <busy:BusyBox Width="80" Height="80" Visibility="{Binding IsEnabled,Converter={StaticResource BoolToOppositeVisibilityConverter}}"   >
+            
+        </busy:BusyBox>
+               <Border Grid.Row="2" IsEnabled="{Binding IsEnabled}"  Padding="2" Background="#FF999C9C" Grid.ColumnSpan="2">
+                     <Grid >
+            <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="70"/>
+                        <ColumnDefinition Width="10"/>
+                        <ColumnDefinition Width="70"/>
+                        <ColumnDefinition Width="10"/>
+                        <ColumnDefinition Width="162*"/>
+                        <ColumnDefinition Width="10"/>
+
+                        <ColumnDefinition Width="70"/>
+                <ColumnDefinition Width="10"/>
+                <ColumnDefinition Width="70"/> 
+            </Grid.ColumnDefinitions>
+                    <Button Grid.Column="0" Command="{Binding ReviewTodayCommand}" CommandParameter="false">回顾</Button>
+                    <Button Grid.Column="2" Command="{Binding RefreshCommand}" CommandParameter="false">刷新</Button>
+                    <ContentControl Grid.Column="4" mvvm:RegionManager.RegionName="{x:Static domain:RegionNames.MEDIA_PLAYER_REGION}"></ContentControl>
+                    <Button Grid.Column="6" Command="{Binding ShowNextDocumentCommand}" CommandParameter="false" IsEnabled="{Binding IsOver,Converter={StaticResource Bool2BoolConverter}}">有点难</Button>
+                    <Button Grid.Column="8" Command="{Binding ShowNextDocumentCommand}" CommandParameter="true" IsEnabled="{Binding IsOver,Converter={StaticResource Bool2BoolConverter}}">一般般</Button>
+        </Grid>
+               </Border>
+              
+    </Grid>      
+         
+
+</TabItem>
