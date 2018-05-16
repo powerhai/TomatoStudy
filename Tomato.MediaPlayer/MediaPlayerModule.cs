@@ -19,7 +19,6 @@ namespace Tomato.MediaPlayer
         public void Initialize()
         {
             mRegionManager.RegisterViewWithRegion(RegionNames.MEDIA_PLAYER_REGION, typeof( MediaPlayerView));
-
         }
     }
 }
